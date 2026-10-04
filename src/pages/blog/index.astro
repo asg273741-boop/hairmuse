@@ -1,0 +1,53 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { SITE } from '../../consts';
+import { sortPosts } from '../../utils';
+
+const posts = sortPosts(await getCollection('blog', ({ data }) => !data.draft));
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Blog',
+    '@id': `${SITE.url}/blog/#blog`,
+    name: `${SITE.name} Blog`,
+    url: `${SITE.url}/blog/`,
+    description: 'Every hairstyle tutorial, guide and idea from HairMuse.',
+    publisher: { '@type': 'Organization', name: SITE.name, url: SITE.url },
+  },
+];
+---
+
+<BaseLayout
+  title="All Posts"
+  description="Browse every HairMuse hairstyle tutorial — updos, curls, braids, bangs and more."
+  schema={schema}
+>
+  <section class="wrap">
+    <div class="page-head">
+      <span class="kicker">The archive</span>
+      <h1>Every look, one board</h1>
+      <p class="lede">
+        All of our hairstyle tutorials and guides in one place. New posts twice a
+        month — pin this page so you can find your way back.
+      </p>
+    </div>
+
+    <div class="board">
+      {posts.map((post, i) => <PostCard post={post} eager={i < 3} />)}
+    </div>
+
+    <div class="cta-band">
+      <h2>Want more between posts?</h2>
+      <p>
+        We pin daily — quick looks, product finds and reposts of our favorite
+        styles from around the hair internet.
+      </p>
+      <a class="btn" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
+        Follow on Pinterest
+      </a>
+    </div>
+  </section>
+</BaseLayout>

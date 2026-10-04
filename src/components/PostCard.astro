@@ -1,0 +1,30 @@
+---
+import { formatDate, readTime, slugify } from '../utils';
+
+interface Props {
+  post: import('astro').CollectionEntry<'blog'>;
+  eager?: boolean;
+}
+
+const { post, eager = false } = Astro.props;
+const { title, image, imageAlt, category, pubDate } = post.data;
+const minutes = readTime(post.body);
+---
+
+<article class="card">
+  <a href={`/blog/${post.id}/`} aria-label={title}>
+    <div class="card-media">
+      <img
+        src={image}
+        alt={imageAlt}
+        width="800"
+        height="1200"
+        loading={eager ? 'eager' : 'lazy'}
+        decoding="async"
+      />
+    </div>
+    <span class="card-eyebrow">{category}</span>
+    <h3>{title}</h3>
+    <p class="card-meta">{formatDate(pubDate)} &middot; {minutes} min read</p>
+  </a>
+</article>

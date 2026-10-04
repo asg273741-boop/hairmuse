@@ -1,0 +1,35 @@
+---
+import { NAV_CATEGORIES } from '../consts';
+import { slugify } from '../utils';
+
+const path = Astro.url.pathname;
+
+const catHref = (c: string) => `/category/${slugify(c)}/`;
+const activeCat = NAV_CATEGORIES.find((c) => path === catHref(c));
+---
+
+<header class="site-header">
+  <div class="wrap header-inner">
+    <a class="brand" href="/">Hair<em>Muse</em></a>
+
+    <input type="checkbox" id="nav-toggle" class="nav-toggle" aria-hidden="true" />
+    <label for="nav-toggle" class="nav-burger" aria-label="Toggle navigation menu">
+      <span></span>
+      <span></span>
+      <span></span>
+    </label>
+
+    <nav class="site-nav" aria-label="Main navigation">
+      <a href="/" aria-current={path === '/' ? 'page' : undefined}>Home</a>
+      <a href="/blog/" aria-current={path === '/blog/' ? 'page' : undefined}>All Posts</a>
+      {
+        NAV_CATEGORIES.map((c) => (
+          <a href={catHref(c)} aria-current={activeCat === c ? 'page' : undefined}>
+            {c}
+          </a>
+        ))
+      }
+      <a href="/about/" aria-current={path === '/about/' ? 'page' : undefined}>About</a>
+    </nav>
+  </div>
+</header>

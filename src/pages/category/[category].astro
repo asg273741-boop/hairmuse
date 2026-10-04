@@ -1,0 +1,61 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostCard from '../../components/PostCard.astro';
+import { SITE } from '../../consts';
+import { slugify, sortPosts } from '../../utils';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  const categories = [...new Set(posts.map((p) => p.data.category))];
+
+  return categories.map((category) => ({
+    params: { category: slugify(category) },
+    props: { category },
+  }));
+}
+
+const { category } = Astro.props;
+const posts = sortPosts(
+  (await getCollection('blog', ({ data }) => !data.draft)).filter(
+    (p) => p.data.category === category
+  )
+);
+
+const schema = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: `${category} Hairstyle Posts`,
+    url: new URL(Astro.url.pathname, Astro.site).toString(),
+    description: `All ${category} tutorials and hairstyle ideas from ${SITE.name}.`,
+    isPartOf: { '@type': 'Blog', name: `${SITE.name} Blog` },
+  },
+];
+---
+
+<BaseLayout
+  title={`${category} Hairstyles`}
+  description={`Every ${category.toLowerCase()} tutorial, guide and idea from HairMuse — Pinterest-ready looks you can recreate at home.`}
+  schema={schema}
+>
+  <section class="wrap">
+    <div class="page-head">
+      <span class="kicker">Category</span>
+      <h1>{category}</h1>
+      <p class="lede">
+        All of our {category.toLowerCase()} tutorials and ideas — save the ones
+        you want to try this week.
+      </p>
+    </div>
+
+    <p class="count-note">
+      {posts.length}
+      {posts.length === 1 ? 'post' : 'posts'} in this category
+    </p>
+
+    <div class="board">
+      {posts.map((post, i) => <PostCard post={post} eager={i < 3} />)}
+    </div>
+  </section>
+</BaseLayout>

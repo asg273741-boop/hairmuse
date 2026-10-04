@@ -1,0 +1,49 @@
+---
+import { NAV_CATEGORIES, SITE } from '../consts';
+import { slugify } from '../utils';
+
+const year = new Date().getFullYear();
+---
+
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="footer-grid">
+      <div>
+        <a class="brand" href="/">Hair<em>Muse</em></a>
+        <p class="footer-blurb">
+          A hairstyle journal for people who save way too many pins — step-by-step
+          tutorials and fresh ideas you can actually recreate at home.
+        </p>
+      </div>
+
+      <div class="footer-col">
+        <h3>Explore</h3>
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/blog/">All Posts</a></li>
+          <li><a href="/about/">About</a></li>
+          <li><a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">Pinterest</a></li>
+          <li><a href="/rss.xml">RSS Feed</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col">
+        <h3>Categories</h3>
+        <ul>
+          {
+            NAV_CATEGORIES.map((c) => (
+              <li>
+                <a href={`/category/${slugify(c)}/`}>{c}</a>
+              </li>
+            ))
+          }
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>&copy; {year} {SITE.name}. All rights reserved.</span>
+      <span>Made with love &amp; a good heat protectant.</span>
+    </div>
+  </div>
+</footer>

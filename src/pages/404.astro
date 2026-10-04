@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="404 — Page Not Found"
+  description="This page slipped out of the bun. Head back to HairMuse for hairstyle tutorials and ideas."
+>
+  <section class="wrap error-hero">
+    <span class="kicker">404</span>
+    <h1>This page <span class="big">slipped out of the bun.</span></h1>
+    <p style="color:var(--ink-soft); max-width:36em; margin:0 auto 2rem">
+      The link you followed doesn&rsquo;t exist — or the style got a makeover.
+      Let&rsquo;s get you back to the good hair.
+    </p>
+    <div class="hero-actions" style="justify-content:center">
+      <a class="btn" href="/">Back to home</a>
+      <a class="btn btn-ghost" href="/blog/">Browse all posts</a>
+    </div>
+  </section>
+</BaseLayout>
