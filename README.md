@@ -22,10 +22,12 @@ npm run preview  # serve the production build locally
 2. **Your identity** — `src/consts.ts` contains the site name, contact email and
    Pinterest profile. Confirm they still belong to HairMuse before publishing.
    `NAV_CATEGORIES` feeds the header and footer.
-3. **Your images** — post covers in `public/images/pins/` are original
-   AI-generated illustrations. They depict the hairstyle, not photographed
-   tutorial steps. Keep new covers at a portrait ratio of 2:3 and describe the
-   visible look accurately in `imageAlt`.
+3. **Your images** — post covers in `public/images/pins/` and
+   `public/images/articles/` are original AI-generated illustrations. They
+   depict the hairstyle, not photographed tutorial steps. Describe the visible
+   look accurately in `imageAlt`. The multi-image articles use optimized WebP
+   files and lazy-load their in-article images; add optimized files rather than
+   the full-size source exports to the repository.
 
 ## Deploying to Cloudflare Pages
 
