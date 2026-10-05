@@ -211,7 +211,7 @@ h4 {
   transition: transform 0.25s ease, opacity 0.25s ease;
 }
 
-@media (max-width: 840px) {
+@media (max-width: 1080px) {
   .nav-burger {
     display: flex;
   }

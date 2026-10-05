@@ -1,10 +1,10 @@
 ---
 title: "Curtain Bangs 101: Styling, Face Shapes & Daily Maintenance"
-description: "Everything you need to know about curtain bangs: what to ask your stylist, blow-dry techniques with a round brush, and styling tricks for every hair type."
+description: "A practical guide to curtain bangs: what to discuss with your stylist, how to use a round brush or rollers, and how to manage the fringe between trims."
 pubDate: 2026-09-18
 category: "Bangs & Bobs"
-image: "/images/pins/curtain-bangs-guide.jpg"
-imageAlt: "Smiling woman facing camera with shoulder-length dark-brown hair and styled soft wispy curtain bangs"
+image: "/images/pins/curtain-bangs-guide-v3.jpg"
+imageAlt: "Woman with shoulder-length dark-brown hair and soft center-parted curtain bangs"
 tags: ["curtain bangs", "haircut ideas", "styling tips", "face framing layers"]
 pinDescription: "Considering curtain bangs? Learn how to style them in under five minutes with a round brush or rollers, plus what to ask your stylist."
 draft: false
@@ -26,14 +26,9 @@ Never simply say "I want curtain bangs" without establishing key boundary lines.
 
 ---
 
-## How to Style Curtain Bangs in Under 5 Minutes
+## How to Style Curtain Bangs
 
-The secret to bouncy curtain bangs is styling them while they are still 80% damp. If you let them air-dry completely first, cowlicks and natural parting habits will set in place.
-
-```
-Blow-Dry Motion Checklist:
-[1. Blow-dry forward over face] ➔ [2. Roll backward over brush] ➔ [3. Set on cool blast] ➔ [4. Split with fingers]
-```
+Curtain bangs are often easier to direct while they are still damp. If they dry in a strong natural part or cowlick first, lightly re-dampen the fringe before using a brush or roller.
 
 ### The Round Brush Technique
 

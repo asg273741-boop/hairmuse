@@ -1,9 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostCard from '../../components/PostCard.astro';
-import { SITE } from '../../consts';
-import { slugify, sortPosts } from '../../utils';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { SITE } from '../../../consts';
+import { slugify, sortPosts } from '../../../utils';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
@@ -36,7 +36,7 @@ const schema = [
 
 <BaseLayout
   title={`${category} Hairstyles`}
-  description={`Every ${category.toLowerCase()} tutorial, guide and idea from HairMuse — Pinterest-ready looks you can recreate at home.`}
+  description={`Browse ${category.toLowerCase()} guides and hairstyle ideas from HairMuse, with practical steps and styling tips.`}
   schema={schema}
 >
   <section class="wrap">

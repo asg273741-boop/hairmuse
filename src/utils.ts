@@ -8,6 +8,14 @@ export function slugify(text: string): string {
     .replace(/(^-|-$)/g, '');
 }
 
+export function categoryPath(category: string): string {
+  return `/hairstyles/${slugify(category)}/`;
+}
+
+export function postPath(post: { id: string; data: { category: string } }): string {
+  return `${categoryPath(post.data.category)}${post.id}/`;
+}
+
 export function formatDate(date: Date): string {
   return date.toLocaleDateString('en-US', {
     year: 'numeric',

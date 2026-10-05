@@ -1,77 +1,61 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { NAV_CATEGORIES, SITE } from '../consts';
-import { slugify } from '../utils';
+import { categoryPath } from '../utils';
 ---
 
 <BaseLayout
   title="About"
-  description="HairMuse is a hairstyle journal for Pinterest lovers — real tutorials, honest tips and saved-worthy hair inspiration."
+  description="Learn about HairMuse, a hairstyle journal with practical guides for braids, updos, waves, bangs and everyday styling."
 >
   <section class="wrap">
     <div class="page-head">
-      <span class="kicker">Our story</span>
-      <h1>Hi, we&rsquo;re <em style="color:var(--accent)">HairMuse</em></h1>
+      <span class="kicker">About HairMuse</span>
+      <h1>Good hair ideas, <em style="color:var(--accent)">clear steps</em></h1>
       <p class="lede">
-        A small team of hair-obsessed writers, stylists and serial pin-savers.
+        HairMuse is a place to explore hairstyles and learn the techniques behind them.
       </p>
     </div>
 
     <div class="prose">
       <p>
-        HairMuse started the way most hair obsessions do: with a Pinterest board
-        titled &ldquo;hair ideas&rdquo; that quietly grew to 4,000 pins. Every time we tried
-        one of those gorgeous saved styles, we hit the same wall — the pin looked
-        amazing, but there was no tutorial behind it.
-      </p>
-      <p>
-        So we built the blog we wished existed. Every post on HairMuse is a
-        real, tested, step-by-step tutorial written for beginners and pros alike.
-        No gatekeeping, no &ldquo;just curl it and go&rdquo; — actual steps, actual photos,
-        honest notes on what worked and what didn&rsquo;t.
+        We publish guides for specific looks, from a simple braid to a polished
+        updo. Each guide explains the tools, the order of the steps and the
+        adjustments that may help with different hair lengths or textures.
       </p>
 
-      <h2>What you&rsquo;ll find here</h2>
+      <h2>What you&rsquo;ll find</h2>
       <ul>
         {
           NAV_CATEGORIES.map((c) => (
             <li>
-              <a href={`/category/${slugify(c)}/`}>{c}</a> — tested tutorials, from
-              five-minute fixes to full looks.
+              <a href={categoryPath(c)}>{c}</a> — guides and styling ideas
+              focused on this category.
             </li>
           ))
         }
       </ul>
 
-      <h2>Our promise</h2>
+      <h2>About the images</h2>
       <p>
-        Every tutorial is tested on real hair before it&rsquo;s published. If a style
-        only works on day-two hair, we&rsquo;ll say so. If it needs three hands, we&rsquo;ll
-        warn you. And if a trend is more work than it&rsquo;s worth, you&rsquo;ll hear that
-        too.
+        Cover images are original AI-generated illustrations created for
+        HairMuse. They show the hairstyle discussed in an article, but they are
+        not photographs of the tutorial steps. Your result will depend on your
+        hair, tools and technique.
       </p>
-      <blockquote>
-        Good hair days shouldn&rsquo;t be a mystery reserved for salons and perfect
-        genetics. They should be a recipe you can follow.
-      </blockquote>
 
-      <h2>Say hello</h2>
+      <h2>Get in touch</h2>
       <p>
-        The fastest way to reach us is on Pinterest, where we&rsquo;re
-        <a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">{SITE.pinterestHandle}</a>.
-        For everything else — collabs, questions, tutorial requests — email
-        <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. We read everything.
+        Find us on <a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">Pinterest</a>
+        at {SITE.pinterestHandle}, or email
+        <a href={`mailto:${SITE.email}`}>{SITE.email}</a> with questions and feedback.
       </p>
     </div>
 
     <div class="cta-band">
-      <h2>Join the board</h2>
-      <p>
-        Follow {SITE.name} on Pinterest for daily hairspiration between posts.
-      </p>
-      <a class="btn" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
-        Follow {SITE.pinterestHandle}
-      </a>
+      <h2>Explore the guides</h2>
+      <p>Start with a look you like, then follow the steps at your own pace.</p>
+      <a class="btn" href="/hairstyles/">Browse all posts</a>
     </div>
   </section>
 </BaseLayout>

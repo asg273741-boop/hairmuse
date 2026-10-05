@@ -111,7 +111,7 @@ if (!childMatch) {
 const rss = readFileSync(join(DIST, 'rss.xml'), 'utf8');
 const rssItems = [...rss.matchAll(/<item>([\s\S]*?)<\/item>/g)];
 const rssLinks = rssItems.map((item) => item[1].match(/<link>([^<]+)<\/link>/)?.[1]);
-const postPages = [...relFiles].filter((file) => /^blog\/[^/]+\/index\.html$/.test(file));
+const postPages = [...relFiles].filter((file) => /^hairstyles\/[^/]+\/[^/]+\/index\.html$/.test(file));
 const badRss = rssLinks.filter((link) => !link?.startsWith(`${SITE}/`) ||
   !relFiles.has(`${link.slice(SITE.length + 1)}index.html`));
 rssItems.length === postPages.length && badRss.length === 0

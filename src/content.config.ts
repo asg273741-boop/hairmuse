@@ -8,7 +8,7 @@ const blog = defineCollection({
     description: z.string().max(200),
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
-    category: z.enum(['Updos & Buns', 'Waves & Curls', 'Braids', 'Bangs & Bobs']),
+    category: z.enum(['Updos & Buns', 'Waves & Curls', 'Braids', 'Bangs & Bobs', 'Occasion Hairstyles']),
     image: z.string(),
     imageAlt: z.string(),
     tags: z.array(z.string()).default([]),

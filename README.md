@@ -1,8 +1,7 @@
 # HairMuse
 
-A fast, SEO-optimized hairstyle blog built with [Astro](https://astro.build) —
-designed for Pinterest traffic: post-focused layouts, tall pin-style imagery,
-a masonry "board" grid and zero JavaScript by default.
+A static hairstyle journal built with [Astro](https://astro.build), with
+step-by-step guides, original cover images and a responsive post grid.
 
 ![Astro](https://img.shields.io/badge/built%20with-Astro-BC52EE?logo=astro)
 
@@ -20,22 +19,32 @@ npm run preview  # serve the production build locally
 1. **Your domain** — the production URL is `https://www.hairmusedaily.com`.
    It is used in `astro.config.mjs`, `src/consts.ts`, `public/robots.txt`
    and `scripts/final-checks.mjs`. Update all four if the domain changes.
-2. **Your identity** — edit `src/consts.ts`: site name, description, email
-   and especially `SITE.pinterest` (where all the "Follow on Pinterest"
-   buttons point). Also update `NAV_CATEGORIES` there if you rename or add
-   categories — those feed the header and footer.
-3. **Your images** — posts use JPGs in `public/images/pins/`. Keep new
-   photos at tall ratios (**2:3 or 4:5**, JPG
-   or PNG) so cards, og:image previews and Pinterest shares look right.
+2. **Your identity** — `src/consts.ts` contains the site name, contact email and
+   Pinterest profile. Confirm they still belong to HairMuse before publishing.
+   `NAV_CATEGORIES` feeds the header and footer.
+3. **Your images** — post covers in `public/images/pins/` are original
+   AI-generated illustrations. They depict the hairstyle, not photographed
+   tutorial steps. Keep new covers at a portrait ratio of 2:3 and describe the
+   visible look accurately in `imageAlt`.
 
 ## Deploying to Cloudflare Pages
 
-1. Copy the whole project folder, including its hidden `.git` directory, to the
-   machine you will push from. Add your Git remote and push `main`:
+1. Clone the GitHub repository and install dependencies:
 
    ```bash
-   git remote add origin <your-repository-url>
-   git push -u origin main
+   git clone https://github.com/asg273741-boop/hairmuse.git
+   cd hairmuse
+   npm ci
+   npm run build
+   npm run check
+   ```
+
+   After making and reviewing changes, commit and push them:
+
+   ```bash
+   git add .
+   git commit -m "Describe the change"
+   git push
    ```
 
 2. In Cloudflare: **Workers & Pages → Create application → Pages → Import an
@@ -51,6 +60,15 @@ npm run preview  # serve the production build locally
    Cloudflare Redirect Rule. Confirm the custom domain is active before sharing
    the site or submitting its sitemap.
 
+## Pinterest website claim
+
+The site links to `https://www.pinterest.com/hairmuseinspo/`. To claim the
+website, use the verification method supplied inside that Pinterest account.
+Pinterest supports an HTML tag, root HTML file or DNS TXT record; the owner
+must provide the account-specific value. See [Pinterest's website claim guide](https://help.pinterest.com/en/business/article/claim-your-website).
+Share Pins that accurately represent their destination articles, and avoid
+repetitive descriptions or automated posting outside Pinterest-approved tools.
+
 ## Pre-deploy checks
 
 ```bash
@@ -60,15 +78,15 @@ npm run check    # validates links, SEO tags, JSON-LD, sitemap, RSS, images
 
 ## Writing a post
 
-Drop a Markdown file into `src/content/blog/`. The filename becomes the URL
-(`my-post.md` → `/blog/my-post/`). Frontmatter:
+Drop a Markdown file into `src/content/blog/`. The category and filename form
+the URL (`my-post.md` in `Updos & Buns` → `/hairstyles/updos-buns/my-post/`). Frontmatter:
 
 ```yaml
 ---
 title: "My Post Title"
 description: "A 150–160 character summary used for meta tags, cards and RSS."
 pubDate: 2026-10-03
-category: "Updos & Buns" # one of: Updos & Buns, Waves & Curls, Braids, Bangs & Bobs
+category: "Updos & Buns" # or Waves & Curls, Braids, Bangs & Bobs, Occasion Hairstyles
 image: "/images/pins/my-post.jpg"
 imageAlt: "Describe the image for accessibility and image SEO"
 tags: ["messy bun", "easy hairstyles"]
@@ -89,9 +107,9 @@ src/
 ├── layouts/             # BaseLayout (fonts, styles, skip link)
 ├── pages/
 │   ├── index.astro      # Homepage: hero, featured post, masonry board
-│   ├── blog/            # Archive + [slug] post template
-│   ├── category/[category]  # Auto-generated category pages
+│   ├── hairstyles/      # Archive, category pages and post template
 │   ├── about.astro
+│   ├── contact.astro
 │   ├── 404.astro
 │   └── rss.xml.js       # RSS feed
 ├── styles/global.css    # Design tokens + all styling
@@ -101,7 +119,6 @@ public/
 ├── favicon.svg
 └── robots.txt
 scripts/
-├── generate-pins.mjs    # Regenerates the placeholder pins
 ├── audit-overflow.mjs   # Mobile overflow checker (headless Chrome)
 └── shot-mobile.mjs      # True mobile-viewport screenshots
 ```

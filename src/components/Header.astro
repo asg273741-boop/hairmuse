@@ -1,11 +1,10 @@
 ---
 import { NAV_CATEGORIES } from '../consts';
-import { slugify } from '../utils';
+import { categoryPath } from '../utils';
 
 const path = Astro.url.pathname;
 
-const catHref = (c: string) => `/category/${slugify(c)}/`;
-const activeCat = NAV_CATEGORIES.find((c) => path === catHref(c));
+const activeCat = NAV_CATEGORIES.find((c) => path.startsWith(categoryPath(c)));
 ---
 
 <header class="site-header">
@@ -21,15 +20,16 @@ const activeCat = NAV_CATEGORIES.find((c) => path === catHref(c));
 
     <nav class="site-nav" aria-label="Main navigation">
       <a href="/" aria-current={path === '/' ? 'page' : undefined}>Home</a>
-      <a href="/blog/" aria-current={path === '/blog/' ? 'page' : undefined}>All Posts</a>
+      <a href="/hairstyles/" aria-current={path === '/hairstyles/' ? 'page' : undefined}>All Posts</a>
       {
         NAV_CATEGORIES.map((c) => (
-          <a href={catHref(c)} aria-current={activeCat === c ? 'page' : undefined}>
+          <a href={categoryPath(c)} aria-current={activeCat === c ? 'page' : undefined}>
             {c}
           </a>
         ))
       }
       <a href="/about/" aria-current={path === '/about/' ? 'page' : undefined}>About</a>
+      <a href="/contact/" aria-current={path === '/contact/' ? 'page' : undefined}>Contact</a>
     </nav>
   </div>
 </header>

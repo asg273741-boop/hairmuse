@@ -1,6 +1,6 @@
 ---
 import { NAV_CATEGORIES, SITE } from '../consts';
-import { slugify } from '../utils';
+import { categoryPath } from '../utils';
 
 const year = new Date().getFullYear();
 ---
@@ -20,9 +20,10 @@ const year = new Date().getFullYear();
         <h3>Explore</h3>
         <ul>
           <li><a href="/">Home</a></li>
-          <li><a href="/blog/">All Posts</a></li>
+          <li><a href="/hairstyles/">All Posts</a></li>
           <li><a href="/about/">About</a></li>
-          <li><a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">Pinterest</a></li>
+          <li><a href="/contact/">Contact</a></li>
+          {SITE.pinterest && <li><a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">Pinterest</a></li>}
           <li><a href="/rss.xml">RSS Feed</a></li>
         </ul>
       </div>
@@ -33,7 +34,7 @@ const year = new Date().getFullYear();
           {
             NAV_CATEGORIES.map((c) => (
               <li>
-                <a href={`/category/${slugify(c)}/`}>{c}</a>
+                <a href={categoryPath(c)}>{c}</a>
               </li>
             ))
           }

@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../consts';
+---
+
+<BaseLayout
+  title="Contact"
+  description="Contact HairMuse with questions, feedback or collaboration inquiries about our hairstyle guides."
+>
+  <section class="wrap">
+    <div class="page-head">
+      <span class="kicker">Get in touch</span>
+      <h1>Contact HairMuse</h1>
+      <p class="lede">Have a question about a guide, an idea for a future post or feedback about the site? We'd love to hear from you.</p>
+    </div>
+
+    <div class="prose">
+      <h2>Email</h2>
+      <p>Write to <a href={`mailto:${SITE.email}`}>{SITE.email}</a>. If you're asking about a tutorial, include its title or link so we can find it quickly.</p>
+
+      <h2>Pinterest</h2>
+      <p>You can also browse and save our hairstyle ideas on <a href={SITE.pinterest} target="_blank" rel="noopener noreferrer">Pinterest ({SITE.pinterestHandle})</a>.</p>
+    </div>
+  </section>
+</BaseLayout>

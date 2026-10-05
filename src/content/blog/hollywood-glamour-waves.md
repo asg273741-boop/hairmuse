@@ -1,18 +1,18 @@
 ---
 title: "Hollywood Glamour Waves: The Red Carpet S-Wave Tutorial"
-description: "Master sculpted, glossy vintage Hollywood waves at home. The step-by-step curling, setting, and brush-out technique for mirror shine and lasting hold."
+description: "Learn the curling, cooling and brush-out sequence used to shape classic Hollywood waves at home."
 pubDate: 2026-08-07
 category: "Waves & Curls"
-image: "/images/pins/hollywood-glamour-waves.jpg"
-imageAlt: "Woman with glossy sculpted vintage Hollywood glamour waves in auburn copper hair with deep side part"
+image: "/images/pins/hollywood-glamour-waves-v3.jpg"
+imageAlt: "Woman with sculpted auburn Hollywood waves and a deep side part"
 tags: ["hollywood waves", "glamour hair", "vintage waves", "formal hairstyles"]
-pinDescription: "Learn the secret behind uniform red-carpet Hollywood waves. Step-by-step pin curl setting and brush-out techniques for flawless S-waves."
+pinDescription: "A step-by-step guide to curling, setting and brushing out sculpted Hollywood-style waves."
 draft: false
 ---
 
-Nothing commands attention quite like sculpted Hollywood glamour waves. The signature cascade of uniform, high-gloss S-curves looks timeless across formal galas, weddings, and evening celebrations.
+Hollywood waves are defined by a consistent S-shaped pattern rather than separate loose curls. The shape comes from curling in one direction, cooling the curls in place and brushing them together.
 
-While standard beach waves rely on alternating curl directions and undone texture, Hollywood waves require the exact opposite: **every single section must be curled in the exact same direction on the same horizontal plane**, then brushed together into one unified ribbon.
+Keep the curling direction consistent across each side of the head. Changing direction from section to section makes it harder to brush the curls into a continuous wave.
 
 ---
 
@@ -27,11 +27,6 @@ While standard beach waves rely on alternating curl directions and undone textur
 ---
 
 ## The Step-by-Step Hollywood Wave System
-
-```
-Core Technique Pipeline:
-[1. Deep Side Part] ➔ [2. Uniform Horizontal Barrel Curls] ➔ [3. Pin & Cool Set] ➔ [4. The Boar Bristle Brush-Out]
-```
 
 ### Step 1: Establish the Architecture
 Create an exaggerated deep side part aligned directly with the arch of your eyebrow. Section off the heavy side (the front volume panel) and clip the bottom layers free.

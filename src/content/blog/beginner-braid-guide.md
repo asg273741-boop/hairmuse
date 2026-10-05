@@ -1,18 +1,18 @@
 ---
 title: "How to Braid Your Own Hair: A Step-by-Step Beginner's Guide"
-description: "Master the classic 3-strand braid, French braid, and Dutch braid on your own hair. Clear finger placements and fixes for common beginner mistakes."
+description: "Learn a classic three-strand braid, French braid and Dutch braid on your own hair, with finger-placement tips and fixes for common mistakes."
 pubDate: 2026-08-21
 category: "Braids"
 image: "/images/pins/beginner-braid-guide.jpg"
 imageAlt: "Woman seen from behind with a neat, classic three-strand braid in glossy chestnut-brown hair tied with a clear elastic"
 tags: ["braids", "hair tutorial", "beginner hairstyles", "everyday hair"]
-pinDescription: "Learn how to braid your own hair without your arms giving up. Step-by-step finger placements for classic three-strand, French, and Dutch braids."
+pinDescription: "Learn the finger placement for classic three-strand, French and Dutch braids, plus simple fixes for uneven tension."
 draft: false
 ---
 
 Braiding someone else's hair is straightforward because you can see every section from above. Braiding your own hair behind your head is a completely different skill—your hands work upside down, your shoulders get tired within three minutes, and one dropped strand turns into a tangled knot.
 
-The secret isn't having faster fingers or naturally cooperative hair. It comes down to two mechanical habits: hand anchor points against your scalp and consistent tension control. Once your muscle memory understands where each finger rests, you can braid smoothly without glancing in a mirror.
+Two habits make self-braiding easier to practise: keeping your hands close to your head and maintaining fairly even tension. Work slowly at first so you can feel where each section sits before increasing speed.
 
 ---
 
@@ -40,11 +40,6 @@ Before attempting intricate styles, your hands must do the basic rhythm automati
 ## 2. The French Braid (Overhand Weaving)
 
 A French braid gathers additional hair from the sides as you travel down the scalp, sitting flush against your head.
-
-```
-Step Rhythm:
-[Cross side strand over center] ➔ [Scoop a 1/2-inch piece of loose hair into that strand] ➔ [Repeat on opposite side]
-```
 
 ### Step-by-Step Instructions
 

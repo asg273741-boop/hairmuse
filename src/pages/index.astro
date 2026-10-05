@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
 import { SITE } from '../consts';
-import { formatDate, readTime, slugify, sortPosts } from '../utils';
+import { categoryPath, formatDate, postPath, readTime, sortPosts } from '../utils';
 
 const posts = sortPosts(await getCollection('blog', ({ data }) => !data.draft));
 const [featured, ...board] = posts;
@@ -40,14 +40,16 @@ const schema = [
       <span class="kicker">A hairstyle journal</span>
       <h1>Hairstyle ideas you&rsquo;ll <em>actually</em> want to try</h1>
       <p class="hero-lede">
-        Step-by-step hair tutorials, saved-worthy inspiration and honest tips —
-        written for the Pinterest girlies who screenshot every bun, braid and bob.
+        Explore braids, updos, waves and haircuts with clear instructions,
+        useful tools and ideas you can adapt to your own hair.
       </p>
       <div class="hero-actions">
-        <a class="btn" href="/blog/">Browse the board</a>
-        <a class="btn btn-ghost" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
-          Follow on Pinterest
-        </a>
+        <a class="btn" href="/hairstyles/">Browse the board</a>
+        {SITE.pinterest && (
+          <a class="btn btn-ghost" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
+            Follow on Pinterest
+          </a>
+        )}
       </div>
     </div>
     <div class="pin-stack" aria-hidden="true">
@@ -62,11 +64,11 @@ const schema = [
         <span class="kicker">Don&rsquo;t miss it</span>
         <h2 id="featured-heading">Latest on the blog</h2>
       </div>
-      <a class="view-all" href="/blog/">View all posts</a>
+      <a class="view-all" href="/hairstyles/">View all posts</a>
     </div>
 
     <article class="featured">
-      <a class="featured-media" href={`/blog/${featured.id}/`} tabindex="-1" aria-hidden="true">
+      <a class="featured-media" href={postPath(featured)} tabindex="-1" aria-hidden="true">
         <img
           src={featured.data.image}
           alt={featured.data.imageAlt}
@@ -79,12 +81,12 @@ const schema = [
       </a>
       <div class="featured-body">
         <span class="card-eyebrow" style="margin-top:0">{featured.data.category}</span>
-        <h2><a href={`/blog/${featured.id}/`}>{featured.data.title}</a></h2>
+        <h2><a href={postPath(featured)}>{featured.data.title}</a></h2>
         <p class="featured-excerpt">{featured.data.description}</p>
         <p class="card-meta" style="margin-bottom:1.6rem">
           {formatDate(featured.data.pubDate)} &middot; {featuredMinutes} min read
         </p>
-        <p><a class="btn" href={`/blog/${featured.id}/`}>Read the tutorial</a></p>
+        <p><a class="btn" href={postPath(featured)}>Read the tutorial</a></p>
       </div>
     </article>
   </section>
@@ -101,7 +103,7 @@ const schema = [
     <div class="pill-row">
       {
         categories.map(({ category, count }) => (
-          <a class="pill" href={`/category/${slugify(category)}/`}>
+          <a class="pill" href={categoryPath(category)}>
             {category} ({count})
           </a>
         ))
@@ -114,16 +116,15 @@ const schema = [
   </section>
 
   <!-- CTA -->
-  <section class="wrap">
-    <div class="cta-band">
-      <h2>Save it before it scrolls away</h2>
-      <p>
-        Every tutorial lives on the blog, but the daily dose of hairspiration is on
-        Pinterest. Follow {SITE.name} there so you never lose a look you love.
-      </p>
-      <a class="btn" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
-        Follow {SITE.pinterestHandle} on Pinterest
-      </a>
-    </div>
-  </section>
+  {SITE.pinterest && (
+    <section class="wrap">
+      <div class="cta-band">
+        <h2>Find HairMuse on Pinterest</h2>
+        <p>Browse and save our hairstyle ideas on the HairMuse profile.</p>
+        <a class="btn" href={SITE.pinterest} target="_blank" rel="noopener noreferrer">
+          Follow {SITE.pinterestHandle} on Pinterest
+        </a>
+      </div>
+    </section>
+  )}
 </BaseLayout>

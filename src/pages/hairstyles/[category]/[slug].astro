@@ -1,13 +1,16 @@
 ---
 import { getCollection, render } from 'astro:content';
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import PostCard from '../../components/PostCard.astro';
-import { SITE } from '../../consts';
-import { formatDate, readTime, slugify, sortPosts } from '../../utils';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import PostCard from '../../../components/PostCard.astro';
+import { SITE } from '../../../consts';
+import { categoryPath, formatDate, postPath, readTime, slugify, sortPosts } from '../../../utils';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
-  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+  return posts.map((post) => ({
+    params: { category: slugify(post.data.category), slug: post.id },
+    props: { post },
+  }));
 }
 
 const { post } = Astro.props;
@@ -28,7 +31,7 @@ const related = allPosts
 const minutes = readTime(post.body);
 const canonical = new URL(Astro.url.pathname, Astro.site);
 const imageURL = new URL(image, Astro.site);
-const categoryURL = `${SITE.url}/category/${slugify(category)}/`;
+const categoryURL = `${SITE.url}${categoryPath(category)}`;
 
 const pinUrl = `https://pinterest.com/pin/create/button/?url=${encodeURIComponent(
   canonical.toString()
@@ -113,7 +116,7 @@ const schema = [
         fetchpriority="high"
         decoding="async"
       />
-      <figcaption>{imageAlt}</figcaption>
+      <figcaption>Illustrative hairstyle image: {imageAlt}</figcaption>
     </figure>
 
     <div class="prose">
@@ -136,7 +139,7 @@ const schema = [
     <nav class="post-nav" aria-label="More posts">
       {
         older ? (
-          <a href={`/blog/${older.id}/`} class="prev">
+          <a href={postPath(older)} class="prev">
             <span class="dir">&larr; Older post</span>
             {older.data.title}
           </a>
@@ -146,7 +149,7 @@ const schema = [
       }
       {
         newer && (
-          <a href={`/blog/${newer.id}/`} class="next">
+          <a href={postPath(newer)} class="next">
             <span class="dir">Newer post &rarr;</span>
             {newer.data.title}
           </a>
@@ -160,7 +163,7 @@ const schema = [
           <span class="kicker">Keep scrolling</span>
           <h2 id="related-heading" style="font-size: clamp(1.5rem, 3vw, 2rem)">You may also love</h2>
         </div>
-        <a class="view-all" href="/blog/">All posts</a>
+        <a class="view-all" href="/hairstyles/">All posts</a>
       </div>
       <div class="grid-3">
         {related.map((p) => <PostCard post={p} />)}

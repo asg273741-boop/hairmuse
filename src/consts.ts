@@ -4,12 +4,12 @@ export const SITE = {
   url: 'https://www.hairmusedaily.com',
   title: 'HairMuse — Hairstyle Ideas, Tutorials & Hair Inspiration',
   description:
-    'A hairstyle journal for Pinterest lovers: step-by-step hair tutorials, updos, braids, waves, bangs and color ideas you can actually recreate at home.',
-  author: 'The HairMuse Team',
-  pinterest: 'https://www.pinterest.com/hairmuse/',
-  pinterestHandle: '@hairmuse',
+    'A hairstyle journal with step-by-step guides for updos, braids, waves, bangs, bobs and occasion looks you can try at home.',
+  author: 'HairMuse',
+  pinterest: 'https://www.pinterest.com/hairmuseinspo/',
+  pinterestHandle: '@hairmuseinspo',
   email: 'hello@hairmuse.com',
-  ogImage: '/images/pins/soft-bobby-pin-updos.jpg',
+  ogImage: '/images/pins/soft-bobby-pin-updos-v2.jpg',
 } as const;
 
 export const NAV_CATEGORIES = [
@@ -17,4 +17,5 @@ export const NAV_CATEGORIES = [
   'Waves & Curls',
   'Braids',
   'Bangs & Bobs',
+  'Occasion Hairstyles',
 ] as const;
