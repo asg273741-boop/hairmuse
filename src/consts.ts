@@ -13,6 +13,7 @@ export const SITE = {
 } as const;
 
 export const NAV_CATEGORIES = [
+  'Haircuts',
   'Updos & Buns',
   'Waves & Curls',
   'Braids',

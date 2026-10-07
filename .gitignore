@@ -24,3 +24,7 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+
+# raw image uploads (processed assets live in public/images/)
+public/posts/
+public/pins/
