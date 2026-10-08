@@ -14,6 +14,7 @@ export const SITE = {
 
 export const NAV_CATEGORIES = [
   'Haircuts',
+  'Hair Color',
   'Updos & Buns',
   'Waves & Curls',
   'Braids',

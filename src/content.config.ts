@@ -15,6 +15,7 @@ const blog = defineCollection({
       'Bangs & Bobs',
       'Occasion Hairstyles',
       'Haircuts',
+      'Hair Color',
     ]),
     seoTitle: z.string().optional(),
     subcategory: z.string().optional(),
