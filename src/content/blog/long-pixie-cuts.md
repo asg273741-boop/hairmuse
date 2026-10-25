@@ -7,7 +7,7 @@ category: "Bangs & Bobs"
 subcategory: "Pixie Cuts"
 articleType: "Haircut Ideas Guide"
 primaryKeyword: "long pixie cut"
-image: "/images/articles/feminine-pixie-cuts/long-pixie-with-face-framing-pieces.webp"
+image: "/images/articles/long-pixie-cuts/hero-long-pixie-face-framing.webp"
 imageAlt: "Long pixie cut with face-framing pieces and a short, tidy nape"
 tags: ["long pixie cut", "pixie cuts", "short hair", "haircut ideas"]
 pinDescription: "14 long pixie cuts with face framing, layers, curtain bangs and wavy texture — the softer, more flexible way to wear a pixie."
@@ -27,73 +27,73 @@ If the softer end of the pixie family appeals to you generally, our [feminine pi
 
 ## 1. Long Pixie with Face-Framing Pieces
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/long-pixie-with-face-framing-pieces.webp" alt="Long pixie with face-framing pieces" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/hero-long-pixie-face-framing.webp" alt="Long pixie with face-framing pieces" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The defining long pixie: the front sections stay long enough to brush the cheekbones while the back is cropped close. The face-framing pieces do the softening work, so the cut reads elegant rather than severe. It suits almost every face shape because the front length can be adjusted to fall exactly where you want attention.
 
 ## 2. Long Pixie Bob
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/long-pixie-bob.webp" alt="Long Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/long-pixie-bob.webp" alt="Long Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A long pixie bob pushes the length furthest — the front can approach chin level while the nape stays stacked and short. It is the right choice if you want a pixie but are nervous about losing the feeling of hair around your face. Our [pixie bob haircuts guide](/hairstyles/bangs-bobs/pixie-bob-haircuts/) compares this hybrid shape in more depth.
 
 ## 3. Classic Long Pixie Cut
 
-<figure class="article-image"><img src="/images/articles/short-haircuts-for-women/long-pixie-cut.webp" alt="Long Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/classic-long-pixie.webp" alt="Long Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The textbook version: scissor-cut sides, a longer layered top, and a fringe that can be worn forward or swept aside. Nothing is undercut or disconnected, so it grows out evenly and stays low-fuss. This is the reference photo to show a stylist if you want "long pixie" without further qualifiers.
 
 ## 4. Layered Long Pixie
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/layered-pixie-bob.webp" alt="Layered Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/layered-long-pixie.webp" alt="Layered Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Layers through the top stop a long pixie from sitting like a helmet. Shorter internal layers create lift at the crown while the outline stays long and soft. Layering matters most on thick hair, where an unlayered long pixie can look heavy and triangular.
 
 ## 5. Wavy Long Pixie
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/wavy-pixie-bob.webp" alt="Wavy Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/wavy-long-pixie.webp" alt="Wavy Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Natural waves make a long pixie look effortless, because the length on top is exactly where wave pattern shows best. Ask for the cut to be done with your wave pattern in mind — cut dry or with minimal tension — so the front pieces land where you expect once the hair springs back.
 
 ## 6. Long Pixie with a Long Side Fringe
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/pixie-with-long-side-fringe.webp" alt="Pixie with Long Side Fringe" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/long-pixie-side-fringe.webp" alt="Pixie with Long Side Fringe" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 One long, sweeping fringe piece changes the whole mood of the cut. It adds asymmetry, softens a strong jaw or high forehead, and gives you something to play with — swept across, tucked behind the ear, or pinned back for a cleaner look.
 
 ## 7. Long Pixie with Curtain Bangs
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/pixie-bob-with-curtain-bangs.webp" alt="Pixie Bob with Curtain Bangs" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/long-pixie-curtain-bangs.webp" alt="Pixie Bob with Curtain Bangs" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Curtain bangs need length at the front, which is exactly what a long pixie provides. The center-parted fringe blends into the longer sides for a soft, seventies-leaning frame. If you are weighing up the fringe on its own, our [curtain bangs guide](/hairstyles/bangs-bobs/curtain-bangs-guide/) covers who it suits and how it grows out.
 
 ## 8. Asymmetrical Long Pixie
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/asymmetrical-pixie-bob.webp" alt="Asymmetrical Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/asymmetrical-long-pixie.webp" alt="Asymmetrical Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 One side longer than the other gives a long pixie an editorial edge without any extreme shaving. The longer side keeps the softness; the shorter side keeps the shape sharp. It is also a practical grow-out style, because the asymmetry looks intentional at every stage.
 
 ## 9. Long Pixie with Soft Layers for Brunettes
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/brunette-pixie-with-soft-layers.webp" alt="Brunette Pixie with Soft Layers" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/brunette-long-pixie-soft-layers.webp" alt="Brunette Pixie with Soft Layers" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 On dark hair, a long pixie reads through silhouette rather than texture, so soft layering is what stops it looking blocky. A little gloss or a few barely-lighter pieces around the face keep the shape dimensional in photos.
 
 ## 10. Blonde Long Pixie
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/blonde-pixie-bob.webp" alt="Blonde Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/blonde-long-pixie.webp" alt="Blonde Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Blonde and lightened hair shows every layer and texture change, which makes a long pixie look particularly detailed. Keep some depth at the roots — a shadow root stops the longer top from looking washed out and makes regrowth far less obvious.
 
 ## 11. Long Pixie for Fine Hair
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/pixie-bob-for-fine-hair.webp" alt="Pixie Bob for Fine Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/long-pixie-fine-hair.webp" alt="Pixie Bob for Fine Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Fine hair often suits a long pixie better than a very short one, because the extra length on top can be layered for the illusion of thickness at the crown. Keep the ends blunt rather than wispy, and avoid heavy razoring — fine hair needs its density protected. More fine-hair short options are in our [short haircuts for women guide](/hairstyles/bangs-bobs/short-haircuts-for-women/).
 
 ## 12. Side-Parted Long Pixie
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/side-parted-pixie-bob.webp" alt="Side-Parted Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/long-pixie-cuts/side-parted-long-pixie.webp" alt="Side-Parted Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A deep side part is the fastest styling change a long pixie offers: it creates instant volume on the heavy side and a sleek sweep on the other. If your hair has a natural part it falls back to, have the cut shaped around it rather than fighting it daily.
 

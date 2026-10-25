@@ -7,7 +7,7 @@ category: "Bangs & Bobs"
 subcategory: "Pixie Cuts"
 articleType: "Haircut Ideas Guide"
 primaryKeyword: "pixie cuts for women over 60"
-image: "/images/articles/feminine-pixie-cuts/feminine-pixie-for-women-over-50.webp"
+image: "/images/articles/pixie-cuts-for-women-over-60/hero-silver-pixie.webp"
 imageAlt: "Elegant soft pixie cut on a mature woman with natural grey tones"
 tags: ["pixie cuts for women over 60", "pixie cuts", "grey hair", "short hair"]
 pinDescription: "12 elegant pixie cuts for women over 60 — silver-friendly shapes, glasses-friendly fringes, and fine-hair volume tricks."
@@ -20,55 +20,55 @@ Hair changes with age. It often becomes finer, drier, and more fragile, and grey
 
 ## 1. The Classic Silver Pixie
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/feminine-pixie-for-women-over-50.webp" alt="Feminine Pixie for Women Over 50" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/hero-silver-pixie.webp" alt="Feminine Pixie for Women Over 50" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The reference style: a neat pixie with a soft fringe and gentle length on top, worn in natural silver or grey. Embracing the grey is what makes this cut look expensive — the colour and the cut are designed together. Keep the edges soft rather than blunt; wispy outlines flatter mature features far more than hard lines.
 
 ## 2. Pixie Bob Over 60
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/pixie-bob-over-50.webp" alt="Pixie Bob Over 50" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/pixie-bob-over-60.webp" alt="Pixie Bob Over 50" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A pixie bob keeps a little more length at the front and sides, which many women prefer to a true pixie — it frames the jaw and feels less exposed. The nape is still short and tidy, so the easy care remains. Our [pixie bob haircuts guide](/hairstyles/bangs-bobs/pixie-bob-haircuts/) shows more variations of this hybrid.
 
 ## 3. Pixie with Glasses
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/pixie-bob-with-glasses.webp" alt="Pixie Bob with Glasses" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/pixie-with-glasses.webp" alt="Pixie Bob with Glasses" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Glasses and a pixie are natural partners — the short shape stops hair competing with your frames. Two details matter: keep the fringe either clearly above the frames or long enough to sweep past them (a fringe that ends exactly at frame level fights them all day), and keep the sides neat around the arms of the glasses so nothing gets trapped and bent.
 
 ## 4. Soft Blonde Pixie
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/soft-blonde-pixie-cut.webp" alt="Soft Blonde Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/soft-blonde-pixie-over-60.webp" alt="Soft Blonde Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 If you colour your hair, a soft blonde pixie is forgiving: the light colour blends regrowth, including incoming grey, better than any dark shade. Multi-tonal blonde — slightly deeper at the roots, brighter around the face — also adds the appearance of thickness, which fine hair appreciates.
 
 ## 5. Sleek Polished Pixie
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/sleek-feminine-pixie.webp" alt="Sleek Feminine Pixie" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/sleek-pixie-over-60.webp" alt="Sleek Feminine Pixie" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A sleek pixie, smoothed close with a side part, is the most formal version — the one that reads "put together" with zero visible effort. It works best on naturally straight or relaxed hair. A drop of shine serum is the entire styling routine.
 
 ## 6. Pixie with Crown Volume
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/pixie-cut-with-soft-volume.webp" alt="Pixie Cut with Soft Volume" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/pixie-crown-volume.webp" alt="Pixie Cut with Soft Volume" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Height at the crown is the single most flattering trick for fine or thinning hair: it lifts the eye upward and makes the hair itself look denser. Ask for longer layers on top that can be directed up and back, and dry them with the roots lifted — the shape is cut in, not sprayed in.
 
 ## 7. Wispy Pixie for Fine Hair
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/wispy-pixie-cut.webp" alt="Wispy Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/wispy-pixie-fine-hair.webp" alt="Wispy Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A wispy pixie uses feathered, separated ends to make fine hair look light and airy instead of sparse. The caution: wispy must not become thin. Keep the interior density and let only the very ends soften — a good stylist will point-cut the outline rather than razor the whole cut. More fine-hair strategy is in our [bob haircuts for fine hair guide](/hairstyles/bangs-bobs/bob-haircuts-for-fine-hair/).
 
 ## 8. Classic Pixie Bob, Chin-Skimming Front
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/classic-pixie-bob.webp" alt="Classic Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/classic-pixie-bob-over-60.webp" alt="Classic Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 For women who wore bobs for years, this is the gentle step across: bob-length at the front, pixie-short at the back. It keeps the familiar frame around the face while removing the weight and drying time of a full bob — a transition our [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) also explores from the other direction.
 
 ## 9. Pixie for Fine Hair with a Fringe
 
-<figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/pixie-bob-for-fine-hair.webp" alt="Pixie Bob for Fine Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/pixie-cuts-for-women-over-60/pixie-fine-hair-fringe.webp" alt="Pixie Bob for Fine Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A fringe is fine hair's friend: it creates a strong front edge that makes the whole cut look fuller, and it softens the forehead in the bargain. Keep it blunt-ish and full rather than see-through — a thicker fringe section taken from further back looks denser than a thin one taken from the hairline.
 

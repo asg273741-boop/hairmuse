@@ -7,7 +7,7 @@ category: "Waves & Curls"
 subcategory: "Heatless Curls"
 articleType: "How-To Guide"
 primaryKeyword: "heatless curls for short hair"
-image: "/images/articles/short-haircuts-for-women/short-wavy-bob.webp"
+image: "/images/articles/heatless-curls-for-short-hair/hero-short-wavy-bob.webp"
 imageAlt: "Short wavy bob with soft heatless-style waves and natural movement"
 tags: ["heatless curls", "short hair", "overnight curls", "no heat hair"]
 pinDescription: "Heatless curls that actually work on short hair: 5 adapted methods with section sizes, timing and fixes for the back pieces that always escape."
@@ -32,7 +32,7 @@ Use hair that is about 80% dry — damp to the touch, never wet. Short hair hold
 
 ## Method 1: The Ribbon or Headband, Placed Higher
 
-<figure class="article-image"><img src="/images/pins/heatless-curls-overnight-v2.jpg" alt="Satin heatless curling ribbon used to wrap hair for overnight curls" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/heatless-curls-for-short-hair/satin-ribbon-method.webp" alt="Satin heatless curling ribbon used to wrap hair for overnight curls" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The satin ribbon (or a soft curling headband) still works on bob-length hair and above — with two changes. Place it higher and further forward than the long-hair version, closer to the hairline, so the short front and side pieces are long enough to complete at least one full wrap. And clip the ribbon at the top of the head with a claw clip: on short hair the ribbon migrates backward overnight without an anchor.
 

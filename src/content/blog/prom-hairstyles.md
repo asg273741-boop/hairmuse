@@ -7,7 +7,7 @@ category: "Occasion Hairstyles"
 subcategory: "Prom Hairstyles"
 articleType: "Occasion Hair Guide"
 primaryKeyword: "prom hairstyles"
-image: "/images/articles/homecoming-hairstyles/hollywood-inspired-waves.webp"
+image: "/images/articles/prom-hairstyles/hero-hollywood-waves.webp"
 imageAlt: "Polished Hollywood-inspired waves styled for a formal evening look"
 tags: ["prom hairstyles", "occasion hairstyles", "formal hairstyles"]
 pinDescription: "15 prom hairstyles for every hair length — glamorous waves, half-up styles, updos, braids and sleek ponytails, plus how to make them last all night."
@@ -22,19 +22,19 @@ If you're also going to homecoming or a winter formal, our [homecoming hairstyle
 
 ## 1. Hollywood Waves
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/hollywood-inspired-waves.webp" alt="Hollywood-Inspired Waves" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/hero-hollywood-waves.webp" alt="Hollywood-Inspired Waves" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The definitive prom hairstyle: deep, uniform, glossy waves swept to one side or parted in the middle. They read as formal in every photograph and suit almost every dress silhouette. The technique — uniform curl direction, a full brush-out, and setting time — is covered step by step in our [Hollywood glamour waves guide](/hairstyles/waves-curls/hollywood-glamour-waves/).
 
 ## 2. Soft Curls with a Middle Part
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/soft-curls-with-a-middle-part.webp" alt="Soft Curls with a Middle Part" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/soft-curls-middle-part.webp" alt="Soft Curls with a Middle Part" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Softer and more modern than full glamour waves: loose curls, a clean center part, and movement that survives the dance floor. This is the safest choice with a detailed or high-neck dress, because the hair stays controlled around the neckline.
 
 ## 3. Sleek Straight Hair with Face Framing
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/sleek-straight-hair-with-face-framing.webp" alt="Sleek Straight Hair with Face Framing" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/sleek-straight-face-framing.webp" alt="Sleek Straight Hair with Face Framing" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Glass-smooth straight hair with two fine face-framing pieces is the minimalist prom look — it puts a detailed dress and makeup entirely in focus. It needs genuinely healthy, trimmed ends; split ends are the one thing sleek styles can't hide.
 
@@ -42,25 +42,25 @@ Glass-smooth straight hair with two fine face-framing pieces is the minimalist p
 
 ## 4. Half-Up Hair with Soft Waves
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/half-up-hair-with-soft-waves.webp" alt="Half-Up Hair with Soft Waves" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/half-up-soft-waves.webp" alt="Half-Up Hair with Soft Waves" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The most-requested prom formula: the romance of hair down, the security of hair up. The top is gathered and pinned while waves fall over the shoulders. Our [wedding guest half-up waves guide](/hairstyles/occasion-hairstyles/wedding-guest-half-up-waves/) teaches the hidden-anchor pinning method that makes this style last — it transfers directly to prom.
 
 ## 5. Half-Up with a Small Bow
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/half-up-hair-with-a-small-bow.webp" alt="Half-Up Hair with a Small Bow" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/half-up-bow.webp" alt="Half-Up Hair with a Small Bow" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A ribbon or bow at the join of a half-up style is prom's favourite accessory this season. Match the ribbon to your dress or shoes, keep it small, and let it replace jewellery near the face — one statement near the hair is enough.
 
 ## 6. Half-Up Twisted Hairstyle
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/half-up-twisted-hairstyle.webp" alt="Half-Up Twisted Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/half-up-twisted.webp" alt="Half-Up Twisted Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Twisted side sections meet at the back for detail that's softer than braids and quicker to do. A strong DIY option: twists are forgiving, need no mirror gymnastics, and can be re-pinned in the bathroom in thirty seconds if one loosens.
 
 ## 7. Curly Half-Up Prom Hairstyle
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/curly-half-up-homecoming-hairstyle.webp" alt="Curly Half-Up Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/curly-half-up.webp" alt="Curly Half-Up Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Natural curls worn half-up: the top pinned or gathered, the curl pattern left completely alone everywhere else. Define curls the day before (wash day is not prom day), and pin with crossed bobby pins rather than an elastic, so nothing flattens the pattern. Defining technique is in our [diffuser guide](/hairstyles/waves-curls/diffuser-natural-waves/).
 
@@ -68,31 +68,31 @@ Natural curls worn half-up: the top pinned or gathered, the curl pattern left co
 
 ## 8. Romantic Low Bun
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/romantic-low-bun.webp" alt="Romantic Low Bun" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/romantic-low-bun.webp" alt="Romantic Low Bun" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A low bun with a soft finish is the classic prom updo — formal, photogenic from every angle, and the best partner for backless or detailed-back dresses. Keep the surface smooth but not shellacked; a few loose pieces at the front stop it reading bridal.
 
 ## 9. Messy Low Bun with Face-Framing Pieces
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/messy-low-bun-with-face-framing-pieces.webp" alt="Messy Low Bun with Face-Framing Pieces" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/messy-low-bun.webp" alt="Messy Low Bun with Face-Framing Pieces" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The relaxed sister of the classic bun. Our [messy buns that hold guide](/hairstyles/updos-buns/messy-buns-that-hold/) covers the anchoring method — the difference between "messy" as a style and messy as an outcome is entirely in the pinning.
 
 ## 10. Soft Updo with Loose Tendrils
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/soft-updo-with-loose-tendrils.webp" alt="Soft Updo with Loose Tendrils" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/soft-updo-tendrils.webp" alt="Soft Updo with Loose Tendrils" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A loosely gathered updo with curled tendrils is the most romantic formal option, and the most forgiving to do at home — it's supposed to look soft, so perfection isn't the brief. The staying-power technique comes from our [soft bobby pin updos guide](/hairstyles/updos-buns/soft-bobby-pin-updos/).
 
 ## 11. Voluminous High Ponytail
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/voluminous-high-ponytail.webp" alt="Voluminous High Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/voluminous-high-ponytail.webp" alt="Voluminous High Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A high, full ponytail with wrapped base and waved lengths: dramatic in photos, off the neck for dancing, and genuinely achievable at home. Add a hidden second elastic and a small lifted section at the crown — that's where the "voluminous" comes from.
 
 ## 12. Low Sleek Ponytail
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/low-sleek-ponytail.webp" alt="Low Sleek Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/low-sleek-ponytail.webp" alt="Low Sleek Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The fashion-editor ponytail: center part, not a hair out of place, worn low with the lengths glassy. Best with a minimalist or one-shoulder dress, statement earrings, and complete confidence. It is also the fastest style on this page to touch up.
 
@@ -100,19 +100,19 @@ The fashion-editor ponytail: center part, not a hair out of place, worn low with
 
 ## 13. Half-Up Braided Hairstyle
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/half-up-braided-hairstyle.webp" alt="Half-Up Braided Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/half-up-braided.webp" alt="Half-Up Braided Hairstyle" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A small braid worked into a half-up style adds craft and texture that photographs beautifully. Keep the braid loose and slightly pancaked so it reads as detail, not as a separate rope sitting on the hair.
 
 ## 14. Loose Side Braid
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/loose-side-braid.webp" alt="Loose Side Braid" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/loose-side-braid.webp" alt="Loose Side Braid" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 A braid swept over one shoulder, kept deliberately loose, suits romantic and boho dresses better than any updo. If your braiding is rusty, our [beginner braid guide](/hairstyles/braids/beginner-braid-guide/) rebuilds the technique step by step — practise this one twice before prom night.
 
 ## 15. Braided Ponytail
 
-<figure class="article-image"><img src="/images/articles/homecoming-hairstyles/braided-ponytail.webp" alt="Braided Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/prom-hairstyles/braided-ponytail.webp" alt="Braided Ponytail" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Ponytail security with braid detail: the most dance-proof style here. Because the hair is contained twice — once by the elastic, once by the braid — it survives the whole night essentially unchanged.
 

@@ -7,7 +7,7 @@ category: "Bangs & Bobs"
 subcategory: "Pixie Cuts"
 articleType: "Haircut Ideas Guide"
 primaryKeyword: "curly pixie cut"
-image: "/images/articles/feminine-pixie-cuts/curly-pixie-cut.webp"
+image: "/images/articles/curly-pixie-cuts/hero-curly-pixie.webp"
 imageAlt: "Curly pixie cut with defined curls on top and shorter tapered sides"
 tags: ["curly pixie cut", "pixie cuts", "curly hair", "short hair"]
 pinDescription: "10 curly pixie cuts that work with your natural curl pattern — plus dry-cutting, shrinkage and styling tips from real curly-hair practice."
@@ -20,13 +20,13 @@ The reassuring news: your curls are an advantage here. Where a straight pixie ne
 
 ## 1. Classic Curly Pixie
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/curly-pixie-cut.webp" alt="Curly Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/curly-pixie-cuts/hero-curly-pixie.webp" alt="Curly Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 The reference curly pixie: curls left long enough on top to form complete, visible ringlets, with the sides and nape cut shorter and close. The proportions matter more than the exact length — the top needs at least one full curl rotation, or the hair reads as fuzz rather than curl.
 
 ## 2. Wavy Pixie with Loose Texture
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/wavy-feminine-pixie.webp" alt="Wavy Feminine Pixie" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/curly-pixie-cuts/wavy-pixie.webp" alt="Wavy Feminine Pixie" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 For loose curls and waves (type 2 to early type 3), a wavy pixie keeps more length everywhere and lets the bend in the hair create the shape. It is the most forgiving curly pixie to grow out, because the softer pattern hides uneven stages well.
 
@@ -44,13 +44,13 @@ The sides and back are tapered very close — sometimes faded — while the top 
 
 ## 6. Curly Pixie for Thick Hair
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/feminine-pixie-for-thick-hair.webp" alt="Feminine Pixie for Thick Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/curly-pixie-cuts/curly-pixie-thick-hair.webp" alt="Feminine Pixie for Thick Hair" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 Thick curly hair is where pixies shine and struggle at once: the volume is glorious, but unshaped it turns triangular — wide at the sides, flat on top. The fix is internal layering and a tapered outline, removing weight from the sides so the curls stack upward instead of outward.
 
 ## 7. Textured Curly Pixie with Piecey Definition
 
-<figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/textured-pixie-with-piecey-bangs.webp" alt="Textured Pixie with Piecey Bangs" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+<figure class="article-image"><img src="/images/articles/curly-pixie-cuts/textured-curly-pixie.webp" alt="Textured Pixie with Piecey Bangs" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 For curls that prefer clumps and pieces over uniform ringlets, a textured pixie leans in: uneven lengths, defined pieces at the front, and a deliberately undone finish. This style is styled by separating and twisting individual curl clumps with cream rather than brushing anything into uniformity.
 
