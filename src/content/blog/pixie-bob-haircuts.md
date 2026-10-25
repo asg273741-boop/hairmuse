@@ -3,6 +3,7 @@ title: "Pixie Bob Haircuts: 19 Chic Ideas Between a Pixie and a Bob"
 seoTitle: "Pixie Bob Haircuts: 19 Chic Ideas Between a Pixie and a Bob"
 description: "Discover 19 chic pixie bob haircuts, from soft layered and side-swept styles to bangs, fine-hair ideas, wavy cuts, sleek shapes, and modern looks for women over 50."
 pubDate: 2026-10-08
+updatedDate: 2026-10-25
 category: "Bangs & Bobs"
 subcategory: "Pixie Bob Haircuts"
 articleType: "Evergreen Haircut Guide"
@@ -52,7 +53,7 @@ This makes it especially useful if you want to go shorter but are not ready for 
 
 <figure class="article-image"><img src="/images/articles/pixie-bob-haircuts/long-pixie-bob.webp" alt="Long Pixie Bob" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
-A long pixie bob sits closer to a short bob. The front and side sections may reach toward the jaw, while the back remains noticeably shorter. This version is ideal if you want the shape of a pixie bob without making the haircut feel dramatically short.
+A long pixie bob sits closer to a short bob. The front and side sections may reach toward the jaw, while the back remains noticeably shorter. This version is ideal if you want the shape of a pixie bob without making the haircut feel dramatically short. If the length is the part you love most, our [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) collects 14 styles built around longer fronts and tops.
 
 It also gives you more flexibility for:
 

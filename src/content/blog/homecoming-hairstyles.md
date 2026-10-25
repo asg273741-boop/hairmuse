@@ -333,7 +333,7 @@ Homecoming hairstyles are often slightly more relaxed. Prom hairstyles may lean 
 - stronger glamour
 - more formal accessories
 
-Homecoming hair can feel younger and simpler. A soft ponytail or half-up style is completely appropriate.
+Homecoming hair can feel younger and simpler. A soft ponytail or half-up style is completely appropriate. When prom comes around, our [prom hairstyles guide](/hairstyles/occasion-hairstyles/prom-hairstyles/) takes these same styles up a level of polish, with dress-pairing and all-night staying power covered in full.
 
 ## Frequently asked questions
 

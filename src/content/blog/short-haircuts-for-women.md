@@ -2,6 +2,7 @@
 title: "Short Haircuts for Women: 21 Chic & Feminine Ideas to Try"
 description: "Discover 21 chic short haircuts for women, from soft pixies and Bixies to French Bobs, layered cuts, curls, bangs and modern textured styles."
 pubDate: 2026-10-05
+updatedDate: 2026-10-25
 category: "Bangs & Bobs"
 image: "/images/articles/short-haircuts-for-women/soft-pixie-cut.webp"
 imageAlt: "Soft Pixie Cut"
@@ -41,7 +42,7 @@ A soft Pixie is one of the most feminine ways to go very short. Instead of sharp
 
 <figure class="article-image"><img src="/images/articles/short-haircuts-for-women/long-pixie-cut.webp" alt="Long Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
-A long Pixie gives you more flexibility around the front and sides. The fringe can reach toward the cheekbone, while the nape remains noticeably shorter. It is a good option if you like the idea of a Pixie but do not want the front to feel too cropped.
+A long Pixie gives you more flexibility around the front and sides. The fringe can reach toward the cheekbone, while the nape remains noticeably shorter. It is a good option if you like the idea of a Pixie but do not want the front to feel too cropped. Our [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) is devoted to this one shape, with 14 variations by texture, fringe and part.
 
 ## 3. Bixie Cut
 

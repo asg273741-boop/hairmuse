@@ -2,6 +2,7 @@
 title: "Feminine Pixie Cuts: 17 Soft & Chic Short Hair Ideas"
 description: "Discover 17 feminine pixie cuts with soft bangs, wispy layers, side-swept styles, volume and elegant texture for a chic, modern short haircut."
 pubDate: 2026-10-05
+updatedDate: 2026-10-25
 category: "Bangs & Bobs"
 image: "/images/articles/feminine-pixie-cuts/undone-feminine-pixie.webp"
 imageAlt: "Woman with a softly textured brunette pixie cut and natural side fringe"
@@ -44,7 +45,7 @@ A wispy pixie has lighter, separated pieces through the top and fringe. Instead 
 
 <figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/long-pixie-with-face-framing-pieces.webp" alt="Long Pixie with Face-Framing Pieces" width="382" height="512" loading="lazy" decoding="async" /></figure>
 
-A longer pixie gives you more styling flexibility. The hair around the temples and forehead stays long enough to frame the face, while the nape remains short. This creates a softer transition between very short hair and a Bixie.
+A longer pixie gives you more styling flexibility. The hair around the temples and forehead stays long enough to frame the face, while the nape remains short. This creates a softer transition between very short hair and a Bixie. It is popular enough to deserve its own collection — see our [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) for 14 longer variations.
 
 ## 4. Feminine Pixie with Curtain-Inspired Fringe
 
@@ -103,7 +104,7 @@ Natural waves can make a short pixie feel especially soft. The wave pattern adds
 
 <figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/curly-pixie-cut.webp" alt="Curly Pixie Cut" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
-A curly pixie can look playful, soft and modern. Keeping a little length through the top allows the curl pattern to remain visible. The sides can be shorter to keep the silhouette balanced.
+A curly pixie can look playful, soft and modern. Keeping a little length through the top allows the curl pattern to remain visible. The sides can be shorter to keep the silhouette balanced. Curly hair has enough specific rules — dry cutting, shrinkage, frizz control — that it gets a full guide of its own: see our [curly pixie cuts guide](/hairstyles/bangs-bobs/curly-pixie-cuts/).
 
 ## 13. Pixie Cut with Tucked Side
 
@@ -131,7 +132,7 @@ A brunette pixie often looks especially polished because darker hair makes the h
 
 <figure class="article-image"><img src="/images/articles/feminine-pixie-cuts/feminine-pixie-for-women-over-50.webp" alt="Feminine Pixie for Women Over 50" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
-A pixie can work beautifully at any age. For women over 50, softer layers and a longer front can create a modern shape without requiring a lot of styling. Natural gray, blonde or brunette hair can all work.
+A pixie can work beautifully at any age. For women over 50, softer layers and a longer front can create a modern shape without requiring a lot of styling. Natural gray, blonde or brunette hair can all work. For the decade after, our [pixie cuts for women over 60 guide](/hairstyles/bangs-bobs/pixie-cuts-for-women-over-60/) covers silver-friendly shapes, glasses-friendly fringes, and fine-hair volume in depth.
 
 ## 17. Undone Feminine Pixie
 
