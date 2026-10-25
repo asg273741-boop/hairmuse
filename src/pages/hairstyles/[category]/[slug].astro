@@ -74,6 +74,50 @@ const schema = [
     ],
   },
 ];
+
+// FAQPage schema is generated from the article's own visible
+// "Frequently Asked Questions" section (### questions + answer text),
+// so the structured data always matches the content on the page.
+function extractFaqs(body: string): { question: string; answer: string }[] {
+  const heading = body.match(/^##\s+Frequently [Aa]sked [Qq]uestions[^\S\r\n]*\r?$/m);
+  if (!heading || heading.index === undefined) return [];
+  let rest = body.slice(heading.index + heading[0].length);
+  const nextSection = rest.search(/^##\s+/m);
+  if (nextSection >= 0) rest = rest.slice(0, nextSection);
+  const parts = rest.split(/^###\s+/m).slice(1);
+  const faqs: { question: string; answer: string }[] = [];
+  for (const part of parts) {
+    const nl = part.indexOf('\n');
+    if (nl < 0) continue;
+    const question = part.slice(0, nl).trim();
+    const answer = part
+      .slice(nl + 1)
+      .replace(/!\[([^\]]*)\]\([^)]*\)/g, '$1')
+      .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')
+      .replace(/\*\*([^*]+)\*\*/g, '$1')
+      .replace(/\*([^*]+)\*/g, '$1')
+      .replace(/`([^`]+)`/g, '$1')
+      .replace(/^[-*]\s+/gm, '')
+      .replace(/\s+/g, ' ')
+      .trim();
+    if (question && answer.length >= 20 && answer.length <= 1200) faqs.push({ question, answer });
+  }
+  return faqs;
+}
+
+const faqs = extractFaqs(post.body ?? '');
+if (faqs.length >= 2) {
+  (schema as Record<string, unknown>[]).push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    '@id': `${canonical}#faq`,
+    mainEntity: faqs.map((f) => ({
+      '@type': 'Question',
+      name: f.question,
+      acceptedAnswer: { '@type': 'Answer', text: f.answer },
+    })),
+  });
+}
 ---
 
 <BaseLayout

@@ -37,3 +37,5 @@ Run your fingers through the lengths once they are cool. You want the waves to s
 **Shorter layers:** Let a few pieces frame the face rather than forcing them into the half-up section. Pin only those that fall forward uncomfortably.
 
 Before leaving, turn your head and lift your arms as you would while dancing. If the style shifts, reinforce the hidden anchor instead of adding more spray to the surface.
+
+Shopping for a school dance instead of a wedding? The same half-up technique anchors most of the looks in our [homecoming hairstyles guide](/hairstyles/occasion-hairstyles/homecoming-hairstyles/), which collects 17 easy Hoco ideas by hair length and dress style.

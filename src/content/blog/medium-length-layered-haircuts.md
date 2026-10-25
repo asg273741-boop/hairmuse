@@ -3,6 +3,7 @@ title: "Medium Length Haircuts with Layers: 21 Chic Ideas for Movement & Shape"
 seoTitle: "Medium Length Haircuts with Layers: 21 Chic Ideas for Movement"
 description: "Discover 21 medium length haircuts with layers, from soft face-framing and curtain bangs to butterfly-inspired cuts, waves, fine-hair ideas, and thick-hair styles."
 pubDate: 2026-10-08
+updatedDate: 2026-10-25
 category: "Haircuts"
 subcategory: "Medium Layered Haircuts"
 articleType: "Evergreen Haircut Guide"
@@ -75,7 +76,7 @@ These shorter pieces gradually blend into the longer lengths. This is a useful o
 
 Curtain bangs and medium layers naturally work together. The bangs create movement around the eyes while the outer fringe pieces blend into the longer face-framing sections. This creates a continuous transition from:
 
-The transition runs from bangs to cheekbone layers and then to longer lengths. The result can feel soft without requiring very short layers throughout the haircut.
+The transition runs from bangs to cheekbone layers and then to longer lengths. The result can feel soft without requiring very short layers throughout the haircut. If you are still deciding on the fringe itself, our [curtain bangs guide](/hairstyles/bangs-bobs/curtain-bangs-guide/) covers who they suit, how they grow out, and how to style them day to day.
 
 ---
 
@@ -93,7 +94,7 @@ Side bangs create a more asymmetrical shape. They work especially well when pair
 
 A butterfly-inspired haircut uses shorter layers around the face and longer layers through the rest of the hair. On medium length, the effect is more compact than the classic long butterfly cut. The front may have noticeable movement around the cheekbones and chin, while the back stays closer to shoulder or collarbone length.
 
-This works best when the layers are blended instead of heavily separated.
+This works best when the layers are blended instead of heavily separated. On curly hair the shape behaves differently — the shorter face layers spring up more — so see our [curly butterfly cut guide](/hairstyles/haircuts/curly-butterfly-cut/) for the curly version in depth.
 
 ---
 
@@ -527,6 +528,8 @@ If you want more visible shape, consider:
 - soft waves
 
 For fine hair, preserving density should stay the priority. Long layers and limited thinning usually create a stronger result than lots of short pieces. For thick hair, more internal layering can make the haircut lighter and easier to style without sacrificing its fullness.
+
+Comparing layering across every length before you commit? Our [layered haircuts guide](/hairstyles/haircuts/layered-haircuts/) shows 17 layered cuts for short, medium, and long hair side by side, so you can see how placement changes with length.
 
 Straight hair benefits from clean, carefully blended transitions. Wavy hair can use layers to give individual bends more freedom. And if you are unsure where to begin, a collarbone-length cut with long layers starting below the chin is one of the easiest combinations to wear and grow out.
 
