@@ -2,7 +2,7 @@
 title: "How to Braid Your Own Hair: A Step-by-Step Beginner's Guide"
 description: "Learn a classic three-strand braid, French braid and Dutch braid on your own hair, with finger-placement tips and fixes for common mistakes."
 pubDate: 2026-08-21
-updatedDate: 2026-10-25
+updatedDate: 2026-10-30
 category: "Braids"
 subcategory: "Braid Tutorials"
 articleType: "How-To Guide"
@@ -34,9 +34,13 @@ Before attempting intricate styles, your hands must do the basic rhythm automati
 
 1. **Prep the hair texture:** Freshly washed hair is often too slippery. Spritz lengths lightly with texturizing spray or apply a dime-sized amount of leave-in cream through mid-lengths and ends for grip.
 2. **Gather and divide:** Brush all hair backward. Split the hair into three equal sections: Left, Middle, and Right. Check with your fingertips that the sections have roughly the same thickness.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-three-strand-sections.webp" alt="Hair divided into three equal sections ready for a three-strand braid" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 3. **The first cross:** Hold the Left section in your left hand and the Right section in your right hand. Cross the Right strand over the Middle strand. The original Right strand is now in the center.
 4. **The alternating cross:** Cross the Left strand over the new Middle strand. The Left strand is now the center.
 5. **Establish the rhythm:** Repeat the sequence—Right over center, Left over center. Keep your knuckles pressed gently against the back of your head or neck as you work down. This physical contact prevents the braid from bowing out or loosening at the base.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-three-strand-crossing.webp" alt="Crossing an outer strand over the center strand midway through a three-strand braid" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 6. **Tie off:** Leave about two inches of tail at the bottom and secure firmly with an elastic.
 
 ---
@@ -51,8 +55,12 @@ A French braid gathers additional hair from the sides as you travel down the sca
 2. **Complete one basic stitch:** Cross the right strand over the middle, then cross the left strand over the new middle.
 3. **Add hair from the right side:** Before crossing the right strand over the center again, use your index finger to trace a clean horizontal line from your right hairline back to the braid. Merge this new hair into the right strand, then cross both over the center.
 4. **Add hair from the left side:** Use your left index finger to slice a clean slice from your left hairline, combine it with the left strand, and cross over the center.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-french-braid-adding.webp" alt="Adding a clean side section of hair into a French braid in progress" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 5. **Follow the curve of your skull:** As you pass your ears, tilt your chin slightly up. This keeps the braid tight against the nape of your neck and prevents that loose, sagging pouch at the bottom.
 6. **Finish with a three-strand braid:** Once all loose hair is integrated at the neckline, continue as a standard three-strand braid down to the ends and fasten.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-french-braid-finished.webp" alt="Finished French braid seen from behind, smooth against the head" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 ---
 
@@ -78,6 +86,8 @@ A Dutch braid uses the exact same sectioning logic as a French braid, but with o
 5. Repeat on the left side, sweeping loose hair under the center.
 6. Continue down to the nape, keeping tension firm. Finish the length with an underhand three-strand braid.
 
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-dutch-braid-finished.webp" alt="Finished Dutch braid from behind with a raised, popped-out ridge" width="896" height="1200" loading="lazy" decoding="async" /></figure>
+
 ---
 
 ## 4. The Fishtail Braid (The Two-Strand Weave)
@@ -89,9 +99,13 @@ A fishtail looks intricate but uses only two sections, which makes it a genuine 
 1. **Gather and split in two:** Pull your hair to one side or straight back and divide it into two equal sections, Left and Right. Hold one in each hand.
 2. **Take a thin outer piece:** With your right index finger, lift a thin strand (about half an inch) from the *outside* of the Right section.
 3. **Cross it over:** Pass that thin strand over the top of the Right section and join it to the *inside* of the Left section.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-fishtail-crossing.webp" alt="Crossing a thin outer strand over while braiding a fishtail braid" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 4. **Mirror on the left:** Lift a thin strand from the outside of the Left section, cross it over, and join it to the inside of the Right section.
 5. **Keep the pieces thin:** The finer the pieces you cross, the more detailed and "woven" the braid looks. Chunky pieces make a faster, softer braid.
 6. **Tie off and pancake:** Secure with an elastic, then gently tug the edges of each loop outward — fishtails pancake better than any other braid because there is no tight central core.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-fishtail-finished.webp" alt="Finished fishtail braid over one shoulder showing the herringbone pattern" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 ---
 
@@ -102,6 +116,8 @@ If your braid looks thin or tight like a shoelace, pancaking transforms it into 
 * Hold the base elastic firmly with one hand.
 * Starting from the bottom of the braid and working upward, use the pads of your thumb and index finger to gently tug the outermost curved loop of each stitch outward by 2–3 millimeters.
 * Work slowly along both sides. Never yank from the center core—only widen the outer edges.
+
+<figure class="article-image"><img src="/images/articles/beginner-braid-guide/step-pancaking.webp" alt="Hands gently pulling the outer edges of a finished braid to pancake it fuller" width="896" height="1200" loading="lazy" decoding="async" /></figure>
 
 ---
 
