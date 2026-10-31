@@ -556,3 +556,5 @@ If you want bangs:
 And if your hair is both fine and low-density, preserving the perimeter becomes especially important. The best haircut is usually not the one with the most layers. It is the one that keeps enough weight at the bottom while creating just enough movement through the top and front.
 
 That balance is what helps a bob look fuller, cleaner, and easier to style without pretending fine hair is something it is not.
+
+Ready to go shorter than a bob? The same density rules apply — blunt ends, no razoring, texture only at the crown — and our [pixie cuts for fine hair guide](/hairstyles/bangs-bobs/pixie-cuts-for-fine-hair/) shows the ten pixie versions that follow them.

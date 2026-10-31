@@ -2,7 +2,7 @@
 title: "Heatless Overnight Curls: Three Methods to Try"
 description: "Compare three overnight curl methods using a satin ribbon, socks or a loose topknot, with wrapping steps and morning take-down tips."
 pubDate: 2026-07-15
-updatedDate: 2026-10-25
+updatedDate: 2026-10-31
 category: "Waves & Curls"
 image: "/images/pins/heatless-curls-overnight-v2.jpg"
 imageAlt: "Woman with long blonde hair in loose curls beside a satin heatless curling ribbon"
@@ -69,3 +69,5 @@ Wait until the hair is fully dry before taking down the wraps. Then:
 4. **Root Lift:** Spritz dry shampoo or texture mist at the roots to maintain airy lift throughout the day.
 
 **Short hair?** These methods assume enough length to wrap. For bobs, lobs and pixie lengths, use the adapted versions in our [heatless curls for short hair guide](/hairstyles/waves-curls/heatless-curls-for-short-hair/) — smaller sections, higher anchor points, and flexi-rod and pin-curl methods that don't depend on length.
+
+**Want the sock method in full?** This guide compares all three methods briefly; our dedicated [sock curls tutorial](/hairstyles/waves-curls/sock-curls/) walks through the two-sock wrap-and-weave step by step, with photos for every stage, timing guidance, and fixes for frizz and loose curls.
