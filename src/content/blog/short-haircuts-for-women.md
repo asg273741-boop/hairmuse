@@ -32,7 +32,7 @@ These can include:
 
 The right short haircut also depends on how your hair naturally behaves. Fine hair may benefit from a stronger perimeter, while thick hair often needs more thoughtful weight distribution. Wavy and curly hair can use natural texture as part of the silhouette rather than fighting against it.
 
-Below are 21 short haircuts for women, ranging from soft Pixies and Bixies to Bobs, curls and modern textured cuts.
+Below are 21 short haircuts for women, ranging from soft Pixies and Bixies to Bobs, curls and modern textured cuts. Shopping by decade instead? The dedicated [short haircuts for women over 50](/hairstyles/bangs-bobs/short-haircuts-for-women-over-50/) guide filters these shapes for changing texture, thinning and glasses.
 
 ## 1. Soft Pixie Cut
 

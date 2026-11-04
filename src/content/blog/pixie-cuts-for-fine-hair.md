@@ -16,7 +16,7 @@ draft: false
 
 Fine hair and pixie cuts belong together — with conditions. Cutting fine hair short removes the weight that drags it flat, lets the crown stand up, and concentrates what density you have into a smaller area so it reads as more. But the wrong technique does the opposite: one pass too many with a razor or thinning shears and a fine-hair pixie goes wispy at exactly the edges where you need it solid.
 
-Every style in this guide follows the fine-hair rules: **blunt or point-cut ends, texture concentrated at the crown, and length kept where it creates the illusion of density**. For the bob-length equivalents, see our [bob haircuts for fine hair guide](/hairstyles/bangs-bobs/bob-haircuts-for-fine-hair/); for pixies chosen without the fine-hair filter, the [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) and [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) cover the broader family.
+Every style in this guide follows the fine-hair rules: **blunt or point-cut ends, texture concentrated at the crown, and length kept where it creates the illusion of density**. For the bob-length equivalents, see our [bob haircuts for fine hair guide](/hairstyles/bangs-bobs/bob-haircuts-for-fine-hair/); for pixies chosen without the fine-hair filter, the [long pixie cuts guide](/hairstyles/bangs-bobs/long-pixie-cuts/) and [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) cover the broader family. And if your hair is the opposite of fine, the techniques flip entirely — see [pixie cuts for thick hair](/hairstyles/bangs-bobs/pixie-cuts-for-thick-hair/).
 
 ## 1. Classic Pixie with Blunt Ends
 

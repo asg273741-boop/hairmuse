@@ -16,7 +16,7 @@ draft: false
 
 A pixie cut after 60 is not about looking younger. It is about a shape that is sharp, deliberate, and easy to live with — hair that takes minutes in the morning, lifts the face instead of dragging on it, and works with the hair you actually have now: its texture, its colour, and its density.
 
-Hair changes with age. It often becomes finer, drier, and more fragile, and grey hair grows in with a wirier texture of its own. The pixie styles below are chosen with those realities in mind — softness around the face, volume where fine hair needs it, and nothing that depends on heavy daily styling. If you are comparing across the whole family first, our [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) shows the softer classic shapes, including its over-50 section.
+Hair changes with age. It often becomes finer, drier, and more fragile, and grey hair grows in with a wirier texture of its own. The pixie styles below are chosen with those realities in mind — softness around the face, volume where fine hair needs it, and nothing that depends on heavy daily styling. If you are comparing across the whole family first, our [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) shows the softer classic shapes, including its over-50 section. For the wider short-hair menu a decade earlier — bobs, crops and shags included — see [short haircuts for women over 50](/hairstyles/bangs-bobs/short-haircuts-for-women-over-50/).
 
 ## 1. The Classic Silver Pixie
 

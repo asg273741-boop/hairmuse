@@ -18,7 +18,7 @@ Because they part softly in the middle and sweep outward toward the temples, cur
 
 ## What to Ask Your Stylist
 
-Never simply say "I want curtain bangs" without establishing key boundary lines. Bring 2–3 reference photos and confirm these three points:
+Never simply say "I want curtain bangs" without establishing key boundary lines. (If you are pairing them with a short cut, our [pixie cuts with bangs](/hairstyles/bangs-bobs/pixie-cuts-with-bangs/) guide shows how curtain bangs and nine other fringes work over a pixie.) Bring 2–3 reference photos and confirm these three points:
 
 1. **The Shortest Point:** Ask for the center pinch to hit right between the bridge of your nose and your brow bone. If cut too short, they won't drape softly.
 2. **The Longest Point:** The outer wings should feather down to graze the top of your cheekbones or jawline.

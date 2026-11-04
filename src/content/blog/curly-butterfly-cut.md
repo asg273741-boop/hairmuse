@@ -14,7 +14,7 @@ pinDescription: "11 modern curly butterfly cut ideas that give natural curls vol
 draft: false
 ---
 
-The curly butterfly cut takes the layered structure of the butterfly haircut and adapts it to natural curls, waves, and textured hair.
+The curly butterfly cut takes the layered structure of the butterfly haircut and adapts it to natural curls, waves, and textured hair. For the complete picture of the cut itself — every length, texture and density — start with our [butterfly haircut guide](/hairstyles/haircuts/butterfly-haircut/).
 
 The basic idea is a contrast between shorter movement around the face and crown and longer layers underneath. On straight hair, that difference creates a sweeping, feathered silhouette. On curly hair, the natural curl pattern adds another dimension because every layer can spring, separate, and fall differently.
 
