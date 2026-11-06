@@ -1,7 +1,7 @@
 ---
-title: "Long Pixie Cuts: 14 Chic Ways to Wear a Longer Pixie"
-seoTitle: "Long Pixie Cuts: 14 Chic Longer Pixie Hairstyles to Try"
-description: "Explore 14 long pixie cuts, from face-framing and layered styles to pixie bobs, curtain bangs and wavy finishes, plus who they suit and how to style them."
+title: "Long Pixie Cut: 12 Flattering Styles That Grow Out Gracefully"
+seoTitle: "Long Pixie Cut: 12 Flattering Styles That Grow Out Gracefully"
+description: "12 long pixie cut ideas that flatter every face shape — layered, wavy, side-swept and with bangs — plus styling tips and honest grow-out advice."
 pubDate: 2026-10-25
 category: "Bangs & Bobs"
 subcategory: "Pixie Cuts"
@@ -10,7 +10,7 @@ primaryKeyword: "long pixie cut"
 image: "/images/articles/long-pixie-cuts/hero-long-pixie-face-framing.webp"
 imageAlt: "Long pixie cut with face-framing pieces and a short, tidy nape"
 tags: ["long pixie cut", "pixie cuts", "short hair", "haircut ideas"]
-pinDescription: "14 long pixie cuts with face framing, layers, curtain bangs and wavy texture — the softer, more flexible way to wear a pixie."
+pinDescription: "12 long pixie cuts with face framing, layers, curtain bangs and wavy texture — the softer, more flexible way to wear a pixie."
 draft: false
 ---
 
@@ -23,7 +23,7 @@ It is the version of the pixie most people choose first, because it offers:
 - softer edges around the ears and hairline
 - a much gentler transition if you are cutting long hair short
 
-If the softer end of the pixie family appeals to you generally, our [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) covers the classic short versions. This guide is specifically about the longer ones — here are 14 ways to wear them.
+If the softer end of the pixie family appeals to you generally, our [feminine pixie cuts guide](/hairstyles/bangs-bobs/feminine-pixie-cuts/) covers the classic short versions. This guide is specifically about the longer ones — here are 12 ways to wear them.
 
 ## 1. Long Pixie with Face-Framing Pieces
 
