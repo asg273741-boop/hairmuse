@@ -106,7 +106,7 @@ Yes, with two conditions: it should sit at or below the chin rather than ending 
 
 ### What is the best hair length for a round face with layers?
 
-Long and medium lengths are the most naturally flattering because the vertical fall elongates the face. Shoulder length and below is the sweet spot for most people. Shorter cuts can absolutely work — the angled lob and asymmetrical bob in this guide are proof — but they need deliberate angles rather than rounded shapes.
+Long and medium lengths are the most naturally flattering because the vertical fall elongates the face. Shoulder length and below is the sweet spot for most people. Shorter cuts can absolutely work — the angled lob and asymmetrical bob in this guide are proof — but they need deliberate angles rather than rounded shapes. Go shorter still and the same rules apply: our [pixie cuts for round faces](/hairstyles/bangs-bobs/pixie-cuts-for-round-faces/) guide applies them to cropped cuts.
 
 ### Do curtain bangs suit a round face?
 

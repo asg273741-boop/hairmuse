@@ -70,4 +70,6 @@ Wait until the hair is fully dry before taking down the wraps. Then:
 
 **Short hair?** These methods assume enough length to wrap. For bobs, lobs and pixie lengths, use the adapted versions in our [heatless curls for short hair guide](/hairstyles/waves-curls/heatless-curls-for-short-hair/) — smaller sections, higher anchor points, and flexi-rod and pin-curl methods that don't depend on length.
 
+**Long hair?** Length changes the physics — sections need to be smaller and drying takes longer. Our [heatless curls for long hair](/hairstyles/waves-curls/heatless-curls-for-long-hair/) guide compares eight methods by the curl they actually produce at longer lengths.
+
 **Want the sock method in full?** This guide compares all three methods briefly; our dedicated [sock curls tutorial](/hairstyles/waves-curls/sock-curls/) walks through the two-sock wrap-and-weave step by step, with photos for every stage, timing guidance, and fixes for frizz and loose curls.

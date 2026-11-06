@@ -47,7 +47,7 @@ Before attempting intricate styles, your hands must do the basic rhythm automati
 
 ## 2. The French Braid (Overhand Weaving)
 
-A French braid gathers additional hair from the sides as you travel down the scalp, sitting flush against your head.
+A French braid gathers additional hair from the sides as you travel down the scalp, sitting flush against your head. For a slower, photo-by-photo walkthrough devoted to just this braid, see our dedicated [how to French braid](/hairstyles/braids/how-to-french-braid/) tutorial.
 
 ### Step-by-Step Instructions
 

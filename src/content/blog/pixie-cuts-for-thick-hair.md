@@ -111,3 +111,5 @@ Less than you think, and matte rather than shiny. A pea-sized amount of matte pa
 ### Will a pixie make thick hair easier to manage?
 
 Day to day, dramatically: washing, drying and styling all shrink to minutes because there is simply less hair and it dries fast. The trade-off is appointment frequency — you exchange daily effort for a standing 4-to-6-week trim. Most thick-haired pixie wearers consider that an excellent deal, since long thick hair was costing them time every single day instead.
+
+If daily ease is the goal and you want the side and nape bulk gone entirely, an [undercut pixie](/hairstyles/bangs-bobs/undercut-pixie-cuts/) removes that weight altogether — the thick-hair version is covered in our undercut guide.

@@ -534,3 +534,5 @@ Comparing layering across every length before you commit? Our [layered haircuts 
 Straight hair benefits from clean, carefully blended transitions. Wavy hair can use layers to give individual bends more freedom. And if you are unsure where to begin, a collarbone-length cut with long layers starting below the chin is one of the easiest combinations to wear and grow out.
 
 The strongest layered haircut is not necessarily the one with the most layers. It is the one where the starting point, overall length, density, and natural texture all work together to create movement without sacrificing the shape of the haircut.
+
+Keeping your length instead? The same principles scale up in our [long layered haircuts](/hairstyles/haircuts/long-layered-haircuts/) guide — face-framing, butterfly and feathered layers for hair below the shoulders.
