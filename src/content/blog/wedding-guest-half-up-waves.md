@@ -2,6 +2,7 @@
 title: "Wedding Guest Half-Up Waves: A Polished Style You Can Adjust"
 description: "A step-by-step half-up hairstyle for a wedding guest, with soft waves, a secure pinned section, and practical adjustments for different hair lengths."
 pubDate: 2026-10-05
+primaryKeyword: "wedding guest hairstyles"
 category: "Occasion Hairstyles"
 image: "/images/pins/wedding-guest-half-up-waves.jpg"
 imageAlt: "Wedding guest half-up hairstyle with long soft waves and a small pearl hair comb"

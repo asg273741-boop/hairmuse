@@ -2,6 +2,7 @@
 title: "Boho Braids: Four Textured Looks and How to Build Them"
 description: "Try four textured braid styles, from a loose side fishtail to a half-up crown, with sectioning, grip and finishing tips."
 pubDate: 2026-09-04
+primaryKeyword: "boho braids"
 category: "Braids"
 image: "/images/pins/boho-braids.jpg"
 imageAlt: "Woman in three-quarter view with a textured boho side braid in honey-blonde hair outdoors in golden-hour sunlight"

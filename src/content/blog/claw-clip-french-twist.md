@@ -2,6 +2,7 @@
 title: "Claw Clip French Twist: A Secure Everyday Updo"
 description: "Learn a simple claw clip French twist with clear steps for folding the ends, placing the clip, and adjusting the hold for different hair types."
 pubDate: 2026-10-05
+primaryKeyword: "claw clip french twist"
 category: "Updos & Buns"
 image: "/images/pins/claw-clip-french-twist.jpg"
 imageAlt: "Chestnut-brown hair folded into a French twist and held with a tortoiseshell claw clip"

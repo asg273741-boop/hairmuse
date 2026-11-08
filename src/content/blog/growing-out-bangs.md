@@ -2,6 +2,7 @@
 title: "Growing Out Bangs: Four Ways to Style the In-Between Length"
 description: "Four practical styles for bangs that are too long to wear straight down but not yet long enough to tuck behind the ears."
 pubDate: 2026-10-05
+primaryKeyword: "growing out bangs"
 category: "Bangs & Bobs"
 image: "/images/pins/growing-out-bangs.jpg"
 imageAlt: "Long side-swept fringe secured near the temple with a small decorative barrette"

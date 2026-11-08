@@ -1,7 +1,8 @@
 ---
 title: "Homecoming Hairstyles: 17 Cute & Easy Hoco Hair Ideas"
 seoTitle: "Homecoming Hairstyles: 17 Easy & Cute Hoco Hair Ideas"
-updatedDate: 2026-10-25
+updatedDate: 2026-11-08
+primaryKeyword: "homecoming hairstyles"
 description: "Discover 17 cute homecoming hairstyles, from soft curls and half-up hair to ponytails, braids, buns and easy Hoco hairstyles for medium and long hair."
 pubDate: 2026-10-05
 category: "Occasion Hairstyles"

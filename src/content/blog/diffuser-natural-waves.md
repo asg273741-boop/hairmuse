@@ -2,6 +2,7 @@
 title: "How to Diffuse Natural Waves Without Losing Definition"
 description: "A practical diffuser routine for naturally wavy hair, from damp-hair product placement to drying technique and common frizz fixes."
 pubDate: 2026-10-05
+primaryKeyword: "how to diffuse wavy hair"
 category: "Waves & Curls"
 image: "/images/pins/diffuser-natural-waves.jpg"
 imageAlt: "Woman with defined shoulder-length natural waves holding a hair dryer with diffuser attachment"

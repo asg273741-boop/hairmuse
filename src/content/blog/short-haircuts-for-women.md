@@ -2,7 +2,8 @@
 title: "Short Haircuts for Women: 21 Chic & Feminine Ideas to Try"
 description: "Discover 21 chic short haircuts for women, from soft pixies and Bixies to French Bobs, layered cuts, curls, bangs and modern textured styles."
 pubDate: 2026-10-05
-updatedDate: 2026-10-25
+updatedDate: 2026-11-08
+primaryKeyword: "short haircuts for women"
 category: "Bangs & Bobs"
 image: "/images/articles/short-haircuts-for-women/soft-pixie-cut.webp"
 imageAlt: "Soft Pixie Cut"

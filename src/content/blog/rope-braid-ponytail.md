@@ -2,6 +2,7 @@
 title: "Rope Braid Ponytail: The Two-Strand Method"
 description: "Learn the two-strand rope braid with the key twist-and-cross direction, plus simple fixes for a braid that unravels."
 pubDate: 2026-10-05
+primaryKeyword: "rope braid ponytail"
 category: "Braids"
 image: "/images/pins/rope-braid-ponytail.jpg"
 imageAlt: "Long dark-brown ponytail woven into a two-strand spiral rope braid"

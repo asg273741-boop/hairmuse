@@ -2,6 +2,7 @@
 title: "Five Soft Bobby Pin Updos to Try"
 description: "Five low updo ideas with clear pinning steps, from a Gibson tuck to a simple French twist. Some styles also use an elastic or hairpins."
 pubDate: 2026-06-05
+primaryKeyword: "bobby pin updos"
 category: "Updos & Buns"
 image: "/images/pins/soft-bobby-pin-updos-v2.jpg"
 imageAlt: "Low twisted updo in light-brown hair secured with visible gold bobby pins"

@@ -2,7 +2,8 @@
 title: "Feminine Pixie Cuts: 17 Soft & Chic Short Hair Ideas"
 description: "Discover 17 feminine pixie cuts with soft bangs, wispy layers, side-swept styles, volume and elegant texture for a chic, modern short haircut."
 pubDate: 2026-10-05
-updatedDate: 2026-10-31
+updatedDate: 2026-11-08
+primaryKeyword: "feminine pixie cuts"
 category: "Bangs & Bobs"
 image: "/images/articles/feminine-pixie-cuts/undone-feminine-pixie.webp"
 imageAlt: "Woman with a softly textured brunette pixie cut and natural side fringe"
