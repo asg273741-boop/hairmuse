@@ -491,6 +491,8 @@ A cleaner structure is often more flattering than a more complicated haircut.
 
 ---
 
+For the full family in one place — classic, A-line, layered, curly, stacked and more — see our complete [bob haircuts guide](/hairstyles/bangs-bobs/bob-haircuts/).
+
 ## Frequently Asked Questions
 
 ### What bob haircut is best for fine hair?

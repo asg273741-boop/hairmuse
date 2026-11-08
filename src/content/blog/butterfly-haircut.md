@@ -92,6 +92,8 @@ Three things. First, **contrast**: a conventional layered cut graduates lengths 
 
 Be honest about three things. If your hair is very fine and sparse, even the gentle version above may cost you too much density at the ends. If you wear your hair in a sleek, blunt, one-length style by preference, the butterfly's flick and movement will annoy you. And if you will not spend five minutes styling, choose the wavy or shaggy version — the straight, polished butterfly is a blowout-dependent cut.
 
+If you want the same layered movement with a rougher edge, the [wolf cut for women](/hairstyles/haircuts/wolf-cut-for-women/) is the butterfly's shaggier sibling — same layering logic, deliberately unpolished.
+
 ## Frequently Asked Questions
 
 ### What is a butterfly haircut?

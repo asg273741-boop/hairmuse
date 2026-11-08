@@ -40,3 +40,5 @@ Run your fingers through the lengths once they are cool. You want the waves to s
 Before leaving, turn your head and lift your arms as you would while dancing. If the style shifts, reinforce the hidden anchor instead of adding more spray to the surface.
 
 Shopping for a school dance instead of a wedding? The same half-up technique anchors most of the looks in our [homecoming hairstyles guide](/hairstyles/occasion-hairstyles/homecoming-hairstyles/), which collects 17 easy Hoco ideas by hair length and dress style.
+
+For the full range of half-up styles — twists, braids, claw clips and topknots, for everyday as well as occasions — see our [half-up half-down hairstyles guide](/hairstyles/updos-buns/half-up-half-down-hairstyles/).

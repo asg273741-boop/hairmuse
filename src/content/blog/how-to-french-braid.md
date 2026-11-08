@@ -90,6 +90,8 @@ Braid to the nape as usual, then twist the remaining plait into a low bun and pi
 
 **Adding uneven slices** makes the braid wander off-centre. Fix: use your index finger to measure each slice against the last, and check the mirror after every few crosses, not at the end. **Holding the braid away from the head** creates sag and bumps. Fix: keep knuckles grazing the scalp as you work. **Inconsistent tension** — tight at the top, loose at the tail — comes from tiring arms; rest your elbows and re-grip between crosses. **Starting too small** (a tiny first section) makes the braid look skimpy at the front; start palm-width. **Quitting at braid two.** The first attempts are supposed to be lumpy; the skill arrives suddenly, usually within the first half-dozen tries.
 
+Once the French braid feels easy, flip the crossing direction: our [Dutch braid tutorial](/hairstyles/braids/how-to-dutch-braid/) turns the same skill into the raised-ridge version that sits on top of the hair.
+
 ## Frequently Asked Questions
 
 ### How long does hair need to be for a French braid?

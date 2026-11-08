@@ -295,6 +295,8 @@ Traditional red may be much more obviously red from root to tip. Cherry cola is 
 
 ---
 
+Prefer lighter, sun-painted dimension over red tones? Our [brunette balayage guide](/hairstyles/hair-color/brunette-balayage/) covers the caramel-to-mushroom branch of brunette colour.
+
 ## Frequently Asked Questions
 
 ### What is cherry cola brunette hair?
