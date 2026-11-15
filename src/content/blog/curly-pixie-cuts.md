@@ -91,6 +91,8 @@ Short curly hair follows the same principles as long curly hair, with less margi
 
 Bring photos of curly pixies on hair that resembles yours — similar curl tightness matters more than similar faces. Then say three things explicitly: that you want the cut shaped dry, that the top must keep at least one full curl rotation of length, and where you want the shortest point to be (nape, sides, or nowhere). Those three sentences prevent most curly pixie disappointments.
 
+For a bolder take on short curls, [undercut pixie cuts](/hairstyles/bangs-bobs/undercut-pixie-cuts/) shave the sides and leave the curl on top, while [pixie cuts for round faces](/hairstyles/bangs-bobs/pixie-cuts-for-round-faces/) balance softer features with height and texture.
+
 ## Frequently Asked Questions
 
 ### Is a pixie cut good for curly hair?

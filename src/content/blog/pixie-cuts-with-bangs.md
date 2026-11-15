@@ -86,6 +86,8 @@ The hybrid base — cropped back, bob-length front — with a fringe added makes
 
 **Round face:** side-swept or curtain bangs — diagonal and vertical lines only; avoid straight-across fringes, which add width. **Square face:** side-swept or wispy bangs soften the jaw; avoid blunt lines that echo it. **Long face:** blunt or baby bangs shorten the forehead visually — this is your shape's superpower fringe. **Heart shape:** curtain or side-swept bangs balance a wider forehead and narrower chin. **Oval face:** everything works; choose by hair type and maintenance appetite instead.
 
+Choosing by face shape as well as fringe? [Pixie cuts for round faces](/hairstyles/bangs-bobs/pixie-cuts-for-round-faces/) shows which pixie shapes add length and angles where you want them.
+
 ## Frequently Asked Questions
 
 ### What type of bangs look best with a pixie cut?

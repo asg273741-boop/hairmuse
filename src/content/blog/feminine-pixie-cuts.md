@@ -319,6 +319,8 @@ The best pixie is ultimately one that works with your natural hair texture and d
 
 Two close relatives are worth knowing before you book: the [bixie cut](/hairstyles/bangs-bobs/bixie-cuts/) keeps these soft pixie layers but adds a bob-length frame around the face, and if density is your main worry, our [pixie cuts for fine hair guide](/hairstyles/bangs-bobs/pixie-cuts-for-fine-hair/) filters every style through what actually makes fine hair look fuller.
 
+For an edgier finish on the same short shape, [undercut pixie cuts](/hairstyles/bangs-bobs/undercut-pixie-cuts/) shave the sides and keep the softness on top.
+
 ## Frequently Asked Questions
 
 ### What is the most feminine pixie cut?

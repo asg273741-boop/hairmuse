@@ -1,6 +1,7 @@
 ---
 title: "Hollywood Glamour Waves: The Red Carpet S-Wave Tutorial"
-description: "Learn the curling, cooling and brush-out sequence used to shape classic Hollywood waves at home."
+seoTitle: "Hollywood Glamour Waves: Vintage S-Wave Tutorial, Step by Step"
+description: "Hollywood glamour waves at home: the curling, pin-cooling and brush-out sequence for glossy vintage S-waves that hold all evening, plus fixes for waves that drop or frizz."
 pubDate: 2026-08-07
 primaryKeyword: "hollywood waves"
 category: "Waves & Curls"

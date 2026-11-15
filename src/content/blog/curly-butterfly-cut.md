@@ -254,6 +254,8 @@ A butterfly cut should enhance those characteristics rather than force the hair 
 
 ---
 
+Butterfly layers at a shorter length live in our [medium length layered haircuts](/hairstyles/haircuts/medium-length-layered-haircuts/) guide, which covers the same face-framing shape at shoulder length.
+
 ## Frequently Asked Questions
 
 ### What is a curly butterfly cut?

@@ -86,6 +86,8 @@ Not a fringe you cut, but the one you already have three months later — styled
 
 Maintenance reality check: fringes need trimming every 2–4 weeks (many salons do bang trims free or cheap between cuts), while the layers themselves can usually stretch to 8–12 weeks. Choose the combination whose fringe schedule fits your actual life, not your aspirational one.
 
+If your layers sit at shoulder length, [medium length layered haircuts](/hairstyles/haircuts/medium-length-layered-haircuts/) is the fuller guide to shapes, layer spacing and styling at that length.
+
 ## Frequently Asked Questions
 
 ### Do bangs and layers work well together?

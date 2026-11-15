@@ -80,6 +80,8 @@ For straight nape pieces that escaped: mist them lightly, twist each around a fi
 
 Short heatless curls rarely survive a full night untouched, but they refresh better than long ones: mist the flattened sections with water (a little leave-in conditioner in the spray bottle helps), re-twist them around a finger, and let them air-set while you get ready. Satin pillowcases make a bigger difference at this length than any product, because short hair has nowhere to hide friction damage. For curl definition that starts from your natural pattern rather than a set, our [diffuser guide](/hairstyles/waves-curls/diffuser-natural-waves/) is the companion read.
 
+On short hair, the classic alternative is the original [sock curls tutorial](/hairstyles/waves-curls/sock-curls/) — the same wrap-and-sleep method, with one sock per section and a looser wrap.
+
 ## Frequently Asked Questions
 
 ### Can you do heatless curls on really short hair?

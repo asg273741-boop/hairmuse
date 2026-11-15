@@ -15,12 +15,32 @@ export async function getStaticPaths() {
   }));
 }
 
+
+const CATEGORY_GUIDES: Record<string, { heading: string; body: string }[]> = {
+  'Bangs & Bobs': [
+    {
+      heading: 'Pixie cuts, matched to your hair',
+      body: 'Start with your texture. Curly hair needs a dry cut and room for shrinkage, which is where <a href="/hairstyles/bangs-bobs/curly-pixie-cuts/">curly pixie cuts</a> begins; softer, feathered shapes live in <a href="/hairstyles/bangs-bobs/feminine-pixie-cuts/">feminine pixie cuts</a>. A fringe changes the whole read of a pixie, so <a href="/hairstyles/bangs-bobs/pixie-cuts-with-bangs/">pixie cuts with bangs</a> compares the fringe styles honestly, and if you want the drama without the full chop, <a href="/hairstyles/bangs-bobs/long-pixie-cuts/">long pixie cuts</a> keep length through the top.',
+    },
+    {
+      heading: 'Short cuts for your face, age and upkeep',
+      body: 'Face shape decides where the volume goes: <a href="/hairstyles/bangs-bobs/pixie-cuts-for-round-faces/">pixie cuts for round faces</a> put height on top and keep the sides close. Later in life, <a href="/hairstyles/bangs-bobs/pixie-cuts-for-women-over-60/">pixie cuts for women over 60</a> covers silver hair, finer texture and glasses-friendly fringes. The boldest option here is the <a href="/hairstyles/bangs-bobs/undercut-pixie-cuts/">undercut pixie</a>, and the full short-hair overview — pixies, crops and bobs side by side — is our guide to <a href="/hairstyles/bangs-bobs/short-haircuts-for-women/">short haircuts for women</a>.',
+    },
+    {
+      heading: 'Bobs and fringes',
+      body: 'The bob family starts with the <a href="/hairstyles/bangs-bobs/bob-haircuts/">bob haircuts</a> pillar: lengths, shapes and who each one suits. The <a href="/hairstyles/bangs-bobs/french-bob-comeback/">French bob</a> is the chic, jaw-length revival, and the <a href="/hairstyles/bangs-bobs/pixie-bob-haircuts/">pixie bob</a> sits between the two cuts. For fringes, the <a href="/hairstyles/bangs-bobs/curtain-bangs-guide/">curtain bangs guide</a> covers cutting and styling, and <a href="/hairstyles/bangs-bobs/growing-out-bangs/">growing out bangs</a> gets you through the awkward months in between.',
+    },
+  ],
+};
+
 const { category } = Astro.props;
 const posts = sortPosts(
   (await getCollection('blog', ({ data }) => !data.draft)).filter(
     (p) => p.data.category === category
   )
 );
+
+const guide = CATEGORY_GUIDES[category];
 
 const schema = [
   {
@@ -53,6 +73,19 @@ const schema = [
       {posts.length}
       {posts.length === 1 ? 'post' : 'posts'} in this category
     </p>
+
+    {
+      guide && (
+        <div class="category-guide">
+          {guide.map((section) => (
+            <section>
+              <h2>{section.heading}</h2>
+              <p set:html={section.body} />
+            </section>
+          ))}
+        </div>
+      )
+    }
 
     <div class="board">
       {posts.map((post, i) => <PostCard post={post} eager={i < 3} />)}

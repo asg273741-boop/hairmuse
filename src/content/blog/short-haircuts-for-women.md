@@ -389,6 +389,9 @@ Face shape can be one consideration, but it does not need to dictate the entire 
 
 These can all alter the balance of the same basic haircut.
 
+Two pixie directions worth a look while you choose: [pixie cuts with bangs](/hairstyles/bangs-bobs/pixie-cuts-with-bangs/) for fringe-led shapes that work at any age.
+Choosing a pixie later in life? [Pixie cuts for women over 60](/hairstyles/bangs-bobs/pixie-cuts-for-women-over-60/) covers silver hair, glasses-friendly fringes and easy upkeep.
+
 ## Frequently Asked Questions
 
 ### What short haircut is most popular for women?
