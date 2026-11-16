@@ -86,6 +86,10 @@ Start the section above one ear and add hair travelling diagonally across the ba
 
 Braid to the nape as usual, then twist the remaining plait into a low bun and pin it. The braid gives the bun grip and detail that a plain bun lacks, and the style holds unusually well because the hair is anchored along the whole scalp. It takes a standard French braid about two extra minutes — the highest return on the basic technique of any style here.
 
+## Braid or Plait? A Quick Note for UK Readers
+
+If you arrived here searching for a **French plait**, you are in the right place: a plait and a braid are exactly the same thing. "Plait" (rhymes with "flat") is the everyday British word, while "braid" is the American term that most tutorials and product labels now use. A French plait is made with the identical technique taught in this guide — three strands, adding a little more hair at every cross — and the same goes for a Dutch plait, which is simply the inside-out version. Nothing about the steps changes with the name, so follow the tutorial above exactly as written, whichever word you grew up with.
+
 ## The 5 Beginner Mistakes (and Their Fixes)
 
 **Adding uneven slices** makes the braid wander off-centre. Fix: use your index finger to measure each slice against the last, and check the mirror after every few crosses, not at the end. **Holding the braid away from the head** creates sag and bumps. Fix: keep knuckles grazing the scalp as you work. **Inconsistent tension** — tight at the top, loose at the tail — comes from tiring arms; rest your elbows and re-grip between crosses. **Starting too small** (a tiny first section) makes the braid look skimpy at the front; start palm-width. **Quitting at braid two.** The first attempts are supposed to be lumpy; the skill arrives suddenly, usually within the first half-dozen tries.
@@ -111,6 +115,9 @@ You can, and it sets lovely waves — that's the braid-waves method in our [heat
 
 ### How long does a French braid take once you know how?
 Five to ten minutes for a single braid on your own hair, including brushing and pancaking. Your first attempts may take twenty with restarts — that is the normal learning curve, not a sign it isn't for you.
+
+### Is a French plait the same as a French braid?
+Yes — identical technique, different word. "Plait" is the British term and "braid" the American one, so a French plait, a Dutch plait and every other plait in a UK tutorial or salon follows exactly the steps given here.
 
 ## Final Thoughts
 
