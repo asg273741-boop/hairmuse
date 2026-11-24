@@ -1,9 +1,9 @@
 ---
-title: "Medium Length Haircuts with Layers: 21 Chic Ideas for Movement & Shape"
-seoTitle: "Medium Length Haircuts with Layers: 21 Chic Ideas for Movement"
-description: "Discover 21 medium length haircuts with layers, from soft face-framing and curtain bangs to butterfly-inspired cuts, waves, fine-hair ideas, and thick-hair styles."
+title: "Medium Layered Haircuts: 21 Shoulder-Length Ideas With Layers"
+seoTitle: "Medium Layered Haircuts: 21 Ideas for Shoulder-Length Hair"
+description: "21 medium layered haircuts for shoulder-length hair: soft face-framing layers, curtain bangs, butterfly-inspired cuts, waves, and fine-hair and thick-hair ideas."
 pubDate: 2026-10-08
-updatedDate: 2026-10-30
+updatedDate: 2026-11-24
 category: "Haircuts"
 subcategory: "Medium Layered Haircuts"
 articleType: "Evergreen Haircut Guide"
